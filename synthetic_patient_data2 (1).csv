@@ -1,0 +1,1001 @@
+fever,cough,fatigue,age,gender,Difficulty Breathing,Blood Pressure,Cholesterol Level,diagnosis,treatment_plan
+101.1154144,0,0,69,Male,1,98.61245045,177.1171296,Urinary Tract Infection,Vitamin C intake
+96.20008604,1,1,72,Male,1,92.49789987,215.4762842,Eczema,Inhalers and tablets
+98.20023455,1,1,20,Female,1,105.3668667,145.5232321,Hepatitis,Vitamin C intake
+97.78568591,0,1,36,Female,0,129.6848552,141.0315701,Hyperthyroidism,Inhalers and tablets
+101.8917697,1,1,19,Male,1,112.8092296,127.9491891,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.4135959,1,1,38,Male,0,98.53446939,143.0168691,Allergic Rhinitis,Vitamin C intake
+103.1374365,0,0,34,Male,0,119.5521245,276.9023206,Allergic Rhinitis,insulin shots
+96.69551066,0,1,78,Female,1,130.8900089,270.2647268,Allergic Rhinitis,Nasal corticosteroid sprays
+99.37537456,1,1,24,Male,0,95.31656001,254.6082062,Hepatitis, Antiviral medications
+96.23837776,0,0,22,Female,0,114.8571748,286.7226676,Allergic Rhinitis,Inhalers and tablets
+97.7491038,0,1,39,Female,0,129.9587611,170.9265915,Hepatitis,Vitamin C intake
+100.0428423,0,0,28,Female,0,101.0286262,277.8485494,Hepatitis,insulin shots
+96.21228776,0,0,74,Male,0,130.2226765,230.3276827,Liver Cancer,Nasal corticosteroid sprays
+97.59070121,1,1,42,Male,1,111.3105732,257.0815054,Asthma,Inhalers and tablets
+101.1990755,0,0,28,Female,0,130.5760515,167.4764293,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.3595318,0,1,64,Female,0,139.1096376,176.3418569,Allergic Rhinitis,Nasal corticosteroid sprays
+97.76352498,0,0,22,Female,0,123.9198919,280.6809258,Urinary Tract Infection,insulin shots
+100.7141255,0,1,53,Female,0,106.2117471,176.7977255,Urinary Tract Infection,insulin shots
+102.4754437,0,1,78,Female,1,138.7926635,299.0217119,Allergic Rhinitis, Antiviral medications
+96.05199008,0,0,75,Male,0,118.7983505,257.4615745,Hepatitis,Inhalers and tablets
+102.446554,0,1,80,Male,1,96.8664701,147.2276543,Hepatitis,Inhalers and tablets
+101.5851152,1,0,23,Male,1,131.8213546,273.546059,Eczema,topical corticosteroids
+98.72200413,0,1,39,Male,1,129.6550835,238.335506,Liver Cancer,insulin shots
+97.243836,0,0,56,Female,0,128.2113941,263.679633,Hyperthyroidism,propylthiouracil or methimazole
+103.6577046,1,1,57,Female,0,119.6542627,129.5799939,Hyperthyroidism,Nasal corticosteroid sprays
+98.69275636,0,0,75,Female,0,106.7751864,146.7517453,Diabetes,insulin shots
+96.74196675,0,1,48,Female,1,96.03727448,161.3748982,Eczema,Nasal corticosteroid sprays
+96.77373101,1,1,63,Male,1,97.06184013,126.4552047,Hepatitis, Antiviral medications
+102.7799549,0,0,19,Male,0,110.7577162,166.8403134,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.8298083,0,0,45,Male,1,124.8147893,247.0733153,Liver Cancer, Antiviral medications
+102.4570262,0,0,78,Female,1,117.6703865,198.557376,Allergic Rhinitis,topical corticosteroids
+101.8378543,0,1,59,Male,1,111.9330606,299.1363138,Urinary Tract Infection, Antiviral medications
+100.2898247,0,1,28,Female,1,136.2837765,286.8971414,Urinary Tract Infection,topical corticosteroids
+103.7849261,1,0,56,Male,1,92.03494472,127.3425075,Urinary Tract Infection,insulin shots
+99.02827502,0,0,74,Female,1,94.99839253,184.1736209,Diabetes,Inhalers and tablets
+100.4163251,1,0,45,Male,1,132.3683355,247.6252456,Liver Cancer,topical corticosteroids
+102.6352373,0,0,28,Male,1,120.6220753,207.3359126,Eczema,Nasal corticosteroid sprays
+100.948158,0,1,21,Male,0,128.8830819,208.737939,Eczema,Vitamin C intake
+102.8936552,1,0,24,Female,0,90.78151631,272.2509032,Hyperthyroidism,Nasal corticosteroid sprays
+100.6188172,0,1,39,Male,1,114.3483737,276.0382741,Hyperthyroidism,Nasal corticosteroid sprays
+101.6365747,0,1,31,Female,1,90.31747893,142.2577621,Liver Cancer,Nasal corticosteroid sprays
+96.36659507,1,0,80,Male,1,98.97064281,136.8440181,Urinary Tract Infection,topical corticosteroids
+97.82318621,0,0,30,Female,1,94.457062,276.2711597,Urinary Tract Infection,Inhalers and tablets
+98.31510371,0,0,44,Male,1,122.5877896,152.5178935,Allergic Rhinitis, Antiviral medications
+96.63833582,1,0,62,Female,1,134.3457571,150.2931003,Urinary Tract Infection,propylthiouracil or methimazole
+97.86232709,1,1,53,Male,0,110.8111121,211.5727975,Asthma, Antiviral medications
+96.80801144,1,0,64,Male,0,130.3705902,169.1024797,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.22378882,0,0,77,Female,1,128.6281354,280.361014,Allergic Rhinitis,insulin shots
+101.0854756,1,1,64,Female,0,124.6179165,225.4219323,Hepatitis,Vitamin C intake
+98.91865743,0,0,52,Male,0,100.3080109,225.0385304,Asthma, Antiviral medications
+98.96144774,0,1,34,Female,1,121.9912852,294.8929238,Liver Cancer,propylthiouracil or methimazole
+97.67605625,1,1,60,Male,0,116.1543432,214.6827732,Hepatitis,topical corticosteroids
+98.13582258,1,1,36,Male,1,110.6015662,222.741806,Diabetes,topical corticosteroids
+103.4932367,0,1,37,Female,0,136.9044805,194.9554185,Asthma, Antiviral medications
+101.1842831,0,1,33,Female,0,120.5268994,133.8303833,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.873048,1,1,24,Male,1,91.8810606,258.2856169,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.36910919,1,1,21,Male,0,99.00002335,241.8435329,Hyperthyroidism,Nasal corticosteroid sprays
+101.8330144,1,1,43,Male,1,114.9943817,279.7261856,Eczema,Vitamin C intake
+97.30721995,0,1,54,Male,0,137.5149032,124.6731903,Hepatitis,topical corticosteroids
+99.03564353,1,1,53,Female,0,121.3595827,242.6362221,Eczema,topical corticosteroids
+103.9161868,1,0,71,Female,0,129.1291515,242.5150937,Hyperthyroidism,topical corticosteroids
+101.1199981,0,1,49,Female,1,107.3926783,190.9505645,Allergic Rhinitis,topical corticosteroids
+100.455598,0,1,27,Female,1,90.22850206,226.2609296,Asthma,Inhalers and tablets
+101.476914,1,0,21,Male,0,101.7819504,291.219573,Urinary Tract Infection, Antiviral medications
+102.7428154,0,1,41,Female,0,95.87539114,270.6558975,Diabetes,Inhalers and tablets
+102.2079993,0,1,18,Female,1,116.509951,147.6795844,Allergic Rhinitis,insulin shots
+97.83238458,0,1,45,Female,1,94.78419275,134.5913826,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.25680195,1,0,23,Female,0,108.0950652,269.5258606,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.52362438,1,0,36,Female,0,128.056412,238.7170782,Asthma,Vitamin C intake
+98.14192701,1,0,70,Male,1,116.9861413,201.7299927,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.68786275,1,0,60,Male,1,100.9638067,291.9362756,Eczema,Nasal corticosteroid sprays
+103.5432777,1,1,58,Female,0,128.5165642,226.9567667,Liver Cancer,Inhalers and tablets
+103.010941,1,1,56,Female,1,122.9663579,121.0449649,Eczema,Inhalers and tablets
+98.51742305,0,1,48,Female,0,103.8213292,294.5586925,Hyperthyroidism,propylthiouracil or methimazole
+101.2435093,0,0,30,Male,0,99.68594965,238.1110963,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.16505521,0,0,24,Male,1,129.8306486,291.1612743,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.3163807,1,1,19,Male,1,124.2621877,178.4847843,Urinary Tract Infection,topical corticosteroids
+99.67081482,1,0,31,Female,0,138.4286919,251.6781391,Hyperthyroidism, Antiviral medications
+98.11904133,0,1,28,Female,1,113.720642,252.1775207,Asthma,propylthiouracil or methimazole
+97.97302006,1,0,58,Male,0,98.81619087,292.3325002,Hyperthyroidism,Inhalers and tablets
+100.4909451,1,1,36,Male,1,123.5071318,222.4485184,Urinary Tract Infection,Vitamin C intake
+98.10193287,1,1,80,Female,0,92.15578007,158.046035,Hepatitis,Nasal corticosteroid sprays
+100.6766879,1,1,23,Male,1,122.2430418,128.7628047,Asthma,Vitamin C intake
+103.1825831,1,1,48,Female,0,104.253226,235.8559253,Urinary Tract Infection,Inhalers and tablets
+99.19520404,0,1,72,Female,0,111.7335821,178.1707524,Allergic Rhinitis,insulin shots
+97.75456607,1,1,25,Female,1,106.7147315,129.9963043,Hyperthyroidism, Antiviral medications
+103.9803009,1,0,37,Female,1,130.2576837,132.730336,Allergic Rhinitis,topical corticosteroids
+100.0762103,1,1,68,Female,1,127.920401,291.342034,Diabetes,topical corticosteroids
+96.7272753,1,0,43,Male,1,92.16587413,188.6503674,Urinary Tract Infection,propylthiouracil or methimazole
+96.376931,1,0,48,Male,0,127.0208442,191.7945295,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.87719304,0,1,49,Male,0,136.2430673,152.0419441,Hyperthyroidism,insulin shots
+101.0195683,1,0,75,Female,0,98.79438041,293.7088758,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.3366349,0,0,60,Male,1,129.2746009,275.7927919,Allergic Rhinitis,propylthiouracil or methimazole
+99.37727973,0,0,34,Male,0,114.2530698,136.0538954,Hepatitis,insulin shots
+96.50822165,0,0,23,Male,1,95.80325427,273.42225,Diabetes,Nasal corticosteroid sprays
+99.05295429,0,0,59,Male,0,134.7539587,149.3293231,Allergic Rhinitis,Vitamin C intake
+103.968971,1,0,52,Female,1,126.070154,260.3086581,Eczema, Antiviral medications
+100.2329148,0,1,42,Male,0,119.6353331,171.28846,Hyperthyroidism,Vitamin C intake
+103.768627,1,0,29,Female,1,106.2986157,255.4605419,Hepatitis, Antiviral medications
+102.8862376,0,0,41,Female,0,99.93756978,237.7315738,Asthma,Nasal corticosteroid sprays
+96.09184818,0,0,74,Male,0,123.8426273,141.7083571,Urinary Tract Infection,Nasal corticosteroid sprays
+101.7657746,1,0,42,Male,0,106.2842479,208.3521176,Allergic Rhinitis,Inhalers and tablets
+101.453683,0,0,41,Female,1,128.9487639,197.8245155,Liver Cancer,insulin shots
+100.2957626,1,0,29,Male,1,106.3066112,265.1435753,Hepatitis,propylthiouracil or methimazole
+98.13460152,1,1,46,Male,0,94.90320669,175.8182353,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.1276944,1,1,20,Female,0,126.8873933,243.2931495,Hepatitis,Vitamin C intake
+96.89241739,0,0,34,Female,1,133.4943151,143.6316003,Eczema,propylthiouracil or methimazole
+99.47812201,1,1,46,Male,1,108.7766194,239.7936533,Asthma,insulin shots
+99.62978965,1,1,47,Male,1,101.0331379,269.7695174,Diabetes,insulin shots
+103.6305274,1,0,34,Female,0,113.549513,212.2775806,Hepatitis,insulin shots
+103.0068235,0,0,32,Male,0,114.2203858,208.1321464,Liver Cancer, Antiviral medications
+98.10711241,0,1,71,Female,1,134.5244422,279.374347,Diabetes,Inhalers and tablets
+100.0046889,0,0,35,Male,0,97.2470636,205.7591436,Urinary Tract Infection,Vitamin C intake
+97.42921504,1,0,54,Female,1,136.3943558,221.3502738,Hyperthyroidism,Nasal corticosteroid sprays
+103.3010227,0,1,21,Female,0,112.7495436,196.1527045,Urinary Tract Infection,Vitamin C intake
+102.9641486,0,1,27,Female,1,109.3665152,256.1683158,Allergic Rhinitis,Inhalers and tablets
+98.38755833,1,0,66,Female,1,96.82023073,265.9789847,Hyperthyroidism,Nasal corticosteroid sprays
+101.111596,1,1,62,Male,0,125.9910608,230.496201,Urinary Tract Infection,propylthiouracil or methimazole
+100.8717617,0,0,60,Male,1,121.6010558,198.1390661,Hepatitis, Antiviral medications
+97.22271415,1,0,24,Female,1,138.7777946,196.6830778,Urinary Tract Infection, Antiviral medications
+102.1000864,0,0,23,Male,0,100.1105445,127.2788561,Hyperthyroidism,Inhalers and tablets
+100.3150322,1,0,60,Female,0,96.36058823,181.5140725,Asthma, Antiviral medications
+102.2290118,0,0,40,Male,1,124.6105265,203.4344776,Urinary Tract Infection, Antiviral medications
+100.2428294,1,0,69,Female,0,92.98258598,160.3614382,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.00457517,0,1,52,Male,1,96.82507497,243.5225765,Allergic Rhinitis,Vitamin C intake
+98.59324846,0,1,44,Male,1,132.5825683,147.9125462,Hyperthyroidism,Inhalers and tablets
+96.15581394,1,1,80,Female,0,112.9289462,209.1580057,Diabetes,Nasal corticosteroid sprays
+103.4327889,1,1,66,Female,0,98.56006584,233.3207246,Diabetes,Inhalers and tablets
+103.029775,1,0,55,Male,0,107.1788004,214.4420011,Asthma, Antiviral medications
+102.6533242,1,1,32,Male,0,134.3204486,172.3265444,Allergic Rhinitis,Nasal corticosteroid sprays
+98.460113,0,1,53,Male,1,120.1817991,198.7239934,Hepatitis,Vitamin C intake
+96.46340133,0,1,21,Male,1,129.4773483,283.297388,Urinary Tract Infection, Antiviral medications
+103.0240768,0,0,71,Male,1,121.8999607,205.9700457,Asthma,Vitamin C intake
+103.5755956,1,0,42,Female,0,120.5764045,146.749177,Liver Cancer, Antiviral medications
+96.68522762,0,1,70,Male,0,98.4967742,143.0021547,Asthma,Nasal corticosteroid sprays
+99.88792371,0,0,51,Female,1,138.5067921,282.5226514,Asthma,Inhalers and tablets
+96.55370015,0,0,44,Female,1,132.7502011,271.4768318,Liver Cancer,Inhalers and tablets
+102.0848173,0,0,79,Female,1,94.32371662,214.1565703,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.1266754,0,1,52,Male,1,132.8486882,173.1866941,Hepatitis,Nasal corticosteroid sprays
+97.02713172,1,1,61,Male,0,114.4606699,128.5910894,Hyperthyroidism,topical corticosteroids
+99.80225902,1,1,73,Female,1,139.7832169,133.7758536,Diabetes,topical corticosteroids
+100.3984287,1,1,77,Male,1,119.5790436,128.1170827,Allergic Rhinitis,topical corticosteroids
+98.12045303,1,0,48,Female,0,131.8494513,139.3737909,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.9794643,0,0,54,Female,1,103.9585439,196.4844338,Hepatitis, Antiviral medications
+99.38510352,1,0,74,Male,0,126.5008877,137.0071852,Eczema,Vitamin C intake
+97.69438564,1,0,33,Male,1,126.808943,238.9539457,Asthma,insulin shots
+100.3143687,1,1,48,Male,1,102.3327089,222.3260779,Hepatitis, Antiviral medications
+101.8394486,0,1,37,Female,0,106.3647974,165.6084596,Urinary Tract Infection,topical corticosteroids
+97.60920851,0,1,23,Male,1,118.9733515,165.8748368,Liver Cancer,Nasal corticosteroid sprays
+98.49373033,0,0,43,Female,0,134.5911314,134.7185211,Urinary Tract Infection,Nasal corticosteroid sprays
+103.9611949,0,0,75,Female,0,119.5885816,210.6200221,Allergic Rhinitis,topical corticosteroids
+101.1990245,0,0,72,Female,0,97.44848509,140.5083884,Urinary Tract Infection,Inhalers and tablets
+99.50480067,0,0,63,Male,1,118.6850392,239.0840982,Eczema, Antiviral medications
+100.1406067,1,1,20,Female,0,90.25387906,152.3193953,Eczema,Vitamin C intake
+96.96803357,1,1,50,Male,0,139.0092021,152.7974642,Diabetes, Antiviral medications
+97.7975787,1,0,54,Male,0,92.00293399,190.7323208,Asthma,Nasal corticosteroid sprays
+98.7046845,1,0,75,Male,0,113.5326315,134.9923017,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.7064697,1,1,51,Male,0,128.4303195,277.8159625,Liver Cancer,insulin shots
+97.84091786,1,0,69,Female,0,91.68102772,173.5765528,Hepatitis, Antiviral medications
+97.76173908,1,0,54,Female,1,116.5560863,225.6975099,Hepatitis,Inhalers and tablets
+96.56794469,0,1,61,Male,0,113.963467,201.8996668,Hepatitis,propylthiouracil or methimazole
+101.0488237,0,0,80,Female,1,129.9008757,240.646776,Asthma,Inhalers and tablets
+97.83153427,1,0,57,Male,0,131.064566,232.2858709,Asthma,topical corticosteroids
+103.2433601,1,0,27,Male,1,112.6220684,167.7133902,Allergic Rhinitis, Antiviral medications
+102.8770832,0,1,25,Female,1,102.0255746,294.0095328,Hepatitis,Inhalers and tablets
+96.5668588,1,0,78,Female,1,117.9243483,276.8420673,Hyperthyroidism,insulin shots
+97.90403707,1,1,66,Female,0,90.62114957,153.6945121,Hepatitis,Vitamin C intake
+101.3518222,1,0,46,Female,1,126.5893142,153.3157303,Diabetes,propylthiouracil or methimazole
+97.71389446,0,0,29,Male,0,137.4966948,254.4652775,Hyperthyroidism,Inhalers and tablets
+97.05849479,0,1,78,Female,0,96.63560009,228.7295172,Hyperthyroidism,insulin shots
+103.4841139,1,1,80,Male,0,104.7895214,276.8908431,Eczema,topical corticosteroids
+100.5683447,0,1,28,Male,1,122.3820099,139.1395186,Asthma,Vitamin C intake
+99.78136821,0,0,80,Female,1,94.53647525,216.1876805,Hyperthyroidism,propylthiouracil or methimazole
+102.2769554,0,0,31,Female,0,113.9891476,121.0524725,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.459976,1,1,69,Male,0,105.2418301,141.0020869,Asthma,propylthiouracil or methimazole
+97.52327931,0,0,30,Male,1,125.1652244,150.9123632,Urinary Tract Infection,Vitamin C intake
+96.77544651,0,0,26,Male,0,132.8961056,205.8815773,Hyperthyroidism,propylthiouracil or methimazole
+99.44840946,1,1,20,Female,1,127.3643348,244.5251214,Asthma,Vitamin C intake
+99.38862898,1,0,45,Female,0,91.22067369,276.3804938,Eczema,Vitamin C intake
+99.73619734,1,0,23,Male,0,112.7420399,293.8446854,Diabetes,Inhalers and tablets
+101.8326068,0,1,61,Female,1,128.5917504,228.3397392,Hyperthyroidism,propylthiouracil or methimazole
+101.3869164,0,1,45,Female,0,133.7099519,207.6100489,Hepatitis,Vitamin C intake
+103.8733217,1,1,30,Female,1,110.2680186,231.3298874,Liver Cancer, Antiviral medications
+96.78734297,1,0,70,Male,0,129.4929356,295.3059406,Hyperthyroidism,Nasal corticosteroid sprays
+99.22097026,0,1,58,Female,1,108.521023,184.931181,Allergic Rhinitis, Antiviral medications
+98.71442084,0,1,27,Female,0,113.2147894,241.2845657,Eczema,Vitamin C intake
+102.8933803,1,1,71,Female,0,121.6701151,244.2528038,Allergic Rhinitis,Vitamin C intake
+97.98925067,0,0,56,Male,1,133.0191325,191.0995028,Hepatitis,insulin shots
+97.52167127,1,1,34,Female,1,93.5349296,174.4781986,Eczema,Inhalers and tablets
+99.58890838,0,1,38,Male,1,134.671722,142.5161082,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.37505312,1,1,76,Female,0,106.6453069,122.4976652,Urinary Tract Infection,Vitamin C intake
+98.22836116,0,0,64,Male,0,91.63570877,140.1442504,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.99845158,1,1,76,Male,1,111.2951127,122.8593444,Hepatitis,insulin shots
+103.3861248,0,0,69,Male,1,103.489469,294.6936655,Eczema,Inhalers and tablets
+99.54504596,1,1,22,Male,0,137.3047747,274.6221654,Eczema,propylthiouracil or methimazole
+102.8907928,0,0,23,Male,1,117.1217553,157.6613065,Eczema,insulin shots
+100.4026025,1,0,42,Male,0,129.7239377,236.7521799,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.40470664,1,0,53,Male,1,129.3845922,236.9531687,Allergic Rhinitis,Vitamin C intake
+103.9942597,1,1,43,Female,1,94.04795208,198.4419253,Allergic Rhinitis,Nasal corticosteroid sprays
+102.6882207,1,0,53,Male,0,134.0423624,232.6906472,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.7519701,1,1,38,Male,0,126.7880393,262.2020766,Allergic Rhinitis,insulin shots
+103.4109359,0,0,72,Female,0,92.74058376,154.3646015,Allergic Rhinitis,insulin shots
+102.7895659,1,1,35,Male,1,137.2661115,174.1652165,Asthma,Nasal corticosteroid sprays
+97.33048888,0,1,51,Male,0,123.7326483,203.4166,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.885129,1,1,47,Male,0,134.3988953,205.3180358,Urinary Tract Infection,Nasal corticosteroid sprays
+97.70997839,0,0,76,Female,0,95.54832719,123.9270291,Eczema,Nasal corticosteroid sprays
+99.20832234,1,0,73,Female,1,108.2795429,149.8989888,Eczema,Vitamin C intake
+96.4690832,1,0,18,Male,1,120.9566725,147.4360032,Liver Cancer,Inhalers and tablets
+99.03178495,0,1,68,Male,1,108.2785572,246.467659,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.8824708,1,1,62,Male,1,98.76337016,293.4960367,Asthma, Antiviral medications
+98.12162447,0,1,57,Male,0,117.9395229,204.8680558,Allergic Rhinitis,Vitamin C intake
+102.2725648,0,1,55,Male,0,93.35029571,274.7633602,Asthma,Nasal corticosteroid sprays
+99.64006694,1,0,51,Female,1,125.4668568,225.3407285,Hyperthyroidism,Nasal corticosteroid sprays
+99.38405989,1,0,68,Male,1,100.2356297,156.2409156,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.6585411,0,0,44,Male,1,139.0625811,222.4974831,Eczema,topical corticosteroids
+103.9633815,1,0,25,Female,1,101.9316353,270.0909359,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.4461466,1,1,44,Female,0,95.67788394,129.1659924,Asthma,Inhalers and tablets
+101.7472662,1,1,27,Female,1,113.9246733,121.4173706,Liver Cancer,Vitamin C intake
+97.2383746,0,1,27,Female,0,136.9573966,233.4737785,Liver Cancer,propylthiouracil or methimazole
+98.3736626,1,0,54,Female,1,119.0059693,248.3567066,Allergic Rhinitis,propylthiouracil or methimazole
+103.7496749,0,0,55,Female,1,137.9551866,296.3076488,Allergic Rhinitis,Vitamin C intake
+100.6334423,0,0,55,Female,0,100.4896988,272.750927,Urinary Tract Infection, Antiviral medications
+100.3375616,0,1,66,Male,1,127.2508357,252.6740964,Urinary Tract Infection,topical corticosteroids
+101.9838045,0,0,79,Female,0,101.2718613,227.2511191,Asthma,propylthiouracil or methimazole
+96.45732218,1,1,78,Male,0,107.6355835,219.7748145,Allergic Rhinitis,Vitamin C intake
+100.6734208,1,1,24,Male,1,103.3678926,172.3394157,Allergic Rhinitis,Inhalers and tablets
+100.0228031,0,0,77,Male,1,124.0113369,207.7493724,Asthma,Nasal corticosteroid sprays
+102.8217591,0,1,24,Male,0,103.8572667,207.4981729,Liver Cancer, Antiviral medications
+97.25946182,0,1,54,Male,0,93.168459,226.3870696,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.6862312,0,1,67,Female,1,107.2613291,230.0691528,Hyperthyroidism,Nasal corticosteroid sprays
+96.64089172,1,0,24,Male,0,114.3113453,242.1602251,Eczema,Nasal corticosteroid sprays
+97.48659969,0,0,68,Female,1,116.33413,267.0040627,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.7602809,0,0,36,Female,0,96.13547171,207.8222692,Liver Cancer, Antiviral medications
+101.4017004,0,1,73,Male,0,125.4912644,248.5722592,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.88163116,0,0,52,Female,1,123.9154146,215.0955856,Urinary Tract Infection,insulin shots
+96.95909291,0,0,74,Female,1,116.6427733,195.9608186,Allergic Rhinitis,Vitamin C intake
+103.1222985,1,1,40,Female,1,104.6132177,176.853027,Hepatitis,Nasal corticosteroid sprays
+97.96972278,1,1,74,Female,1,121.0475634,131.4319024,Allergic Rhinitis,Inhalers and tablets
+100.7561532,1,1,44,Male,0,129.9951934,280.7178953,Asthma,Nasal corticosteroid sprays
+100.9550521,1,1,34,Female,0,137.2682661,195.0847425,Diabetes,Inhalers and tablets
+99.35379932,1,0,42,Male,0,130.4397938,205.2008349,Liver Cancer,insulin shots
+100.6693783,0,0,59,Male,0,137.0437944,209.0619841,Eczema,insulin shots
+100.1822617,1,0,49,Male,0,93.28137956,289.0136057,Asthma,Vitamin C intake
+103.4776501,0,1,54,Female,1,134.5951607,182.4175404,Allergic Rhinitis,topical corticosteroids
+97.6340736,1,1,56,Female,0,112.893706,245.5525993,Urinary Tract Infection, Antiviral medications
+101.7295344,1,1,48,Male,1,94.00852017,123.7452464,Diabetes,Inhalers and tablets
+97.90948762,1,1,20,Female,0,134.897293,171.8419407,Hepatitis,insulin shots
+99.16628677,1,1,29,Female,0,104.4186344,154.5962336,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.3735218,0,0,35,Male,1,137.8313465,181.8925302,Hyperthyroidism,propylthiouracil or methimazole
+98.39997664,1,1,43,Male,0,95.46824603,161.7785604,Diabetes,Vitamin C intake
+98.52941757,0,1,27,Male,0,103.7971368,159.5464221,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.0149159,1,0,57,Male,0,124.8541055,283.6326278,Liver Cancer,Inhalers and tablets
+96.58034492,1,1,56,Male,1,114.8164367,181.0475398,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.66628418,1,0,61,Female,0,133.749657,228.3780239,Hyperthyroidism, Antiviral medications
+103.9876355,0,1,62,Male,0,116.034382,271.6440842,Liver Cancer,topical corticosteroids
+103.9687716,0,0,43,Female,1,121.3638099,238.2524646,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.58608577,1,0,20,Male,1,104.6584721,143.6085421,Liver Cancer,topical corticosteroids
+97.7052345,1,1,43,Female,1,138.4787303,172.8109276,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.12160332,0,0,74,Male,1,117.0717479,248.0493335,Asthma,topical corticosteroids
+103.466075,0,1,74,Female,1,96.60136844,292.7646063,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.0469134,1,1,39,Male,1,107.3350123,269.9545342,Eczema,Nasal corticosteroid sprays
+103.0341619,1,1,62,Male,0,112.1930026,241.1593129,Hepatitis,Vitamin C intake
+98.95621671,0,1,33,Male,0,122.2342221,252.2252338,Urinary Tract Infection,Vitamin C intake
+97.26197466,1,1,21,Male,0,104.5758399,263.2750795,Allergic Rhinitis,insulin shots
+102.6699596,0,1,65,Female,0,93.14747543,263.9559106,Eczema,topical corticosteroids
+101.6283194,1,1,48,Male,0,133.589685,272.0156311,Allergic Rhinitis,Vitamin C intake
+100.8934221,1,0,76,Male,0,101.6164032,231.9316281,Eczema,insulin shots
+103.8978645,0,1,35,Male,1,137.3724356,170.8422987,Asthma,Vitamin C intake
+101.2318105,0,1,75,Male,0,122.2336016,254.8657743,Diabetes, Antiviral medications
+96.06258486,1,0,41,Female,0,110.5845865,240.0701614,Allergic Rhinitis, Antiviral medications
+102.5368331,0,1,19,Male,0,107.1396239,143.2373797,Urinary Tract Infection,topical corticosteroids
+98.39503002,1,1,39,Female,0,122.3025613,155.9071601,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.3071097,0,0,70,Male,1,106.3153207,229.0348213,Asthma, Antiviral medications
+103.51144,0,1,68,Female,0,119.6678628,138.1626706,Eczema,propylthiouracil or methimazole
+97.07432892,0,1,37,Male,1,124.843179,194.8771851,Hyperthyroidism,topical corticosteroids
+96.92342936,0,1,37,Male,0,132.0953935,298.8781024,Liver Cancer, Antiviral medications
+96.85628782,1,1,35,Female,1,112.2628152,174.6573408,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.4257891,1,0,71,Female,1,105.2041169,157.6979294,Diabetes,Nasal corticosteroid sprays
+98.1787857,0,1,49,Female,0,96.5977126,128.4688805,Allergic Rhinitis,Vitamin C intake
+100.8386386,1,1,72,Male,1,129.4674131,123.2635072,Hyperthyroidism,Vitamin C intake
+101.7408975,1,1,62,Male,1,98.58685627,278.5630993,Urinary Tract Infection,topical corticosteroids
+97.6287785,1,1,61,Male,1,103.0003729,184.2678975,Allergic Rhinitis,Vitamin C intake
+101.0739037,1,1,24,Female,0,114.2121556,148.5489837,Eczema,insulin shots
+98.11187121,1,0,80,Male,0,138.5362024,269.0307639,Allergic Rhinitis,propylthiouracil or methimazole
+99.90825482,1,0,73,Male,0,128.4874869,281.0023447,Hepatitis,propylthiouracil or methimazole
+103.2426919,0,0,32,Female,0,92.36594682,125.7546014,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.7688297,1,0,26,Female,0,107.6560448,131.4598055,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.73838774,0,1,37,Female,1,112.7963269,197.5116833,Diabetes,insulin shots
+99.38860618,1,0,80,Female,0,98.31815363,231.1613259,Liver Cancer, Antiviral medications
+98.21344179,0,1,65,Female,1,136.206582,141.7238459,Eczema,Vitamin C intake
+96.02836551,1,1,46,Male,1,125.5906086,160.337215,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.1689538,1,0,67,Female,0,104.2623291,166.4079854,Diabetes,topical corticosteroids
+101.096907,1,1,70,Female,0,138.6603045,181.2583585,Eczema,Vitamin C intake
+98.0956421,0,1,38,Female,0,131.9665838,183.9433758,Allergic Rhinitis,Vitamin C intake
+101.9298473,1,0,35,Male,0,124.6429634,128.4017445,Liver Cancer,insulin shots
+100.4134434,0,1,64,Male,0,123.3177983,277.9884565,Liver Cancer,topical corticosteroids
+99.42149535,0,0,44,Female,1,97.67424001,168.1484224,Allergic Rhinitis,topical corticosteroids
+96.0773576,1,1,56,Male,1,101.8952662,147.2121073,Allergic Rhinitis,propylthiouracil or methimazole
+96.60195088,1,0,59,Male,1,92.05757282,244.2244048,Eczema,insulin shots
+103.0648511,1,1,23,Female,1,105.8312919,212.7697397,Allergic Rhinitis,propylthiouracil or methimazole
+103.2314286,0,1,30,Female,0,96.3236756,240.5074602,Allergic Rhinitis,insulin shots
+100.3647223,0,0,46,Female,1,103.0203599,247.1528851,Urinary Tract Infection,topical corticosteroids
+102.6767602,1,1,31,Male,1,99.22482915,286.7937777,Liver Cancer,Vitamin C intake
+100.6600765,1,1,76,Female,0,118.1243621,198.8088072,Hyperthyroidism,Inhalers and tablets
+97.18475028,1,1,70,Female,1,91.73445443,202.2844152,Hepatitis,insulin shots
+97.01956415,0,1,44,Female,1,105.8471882,271.4874553,Eczema,insulin shots
+98.4660668,0,0,65,Female,1,107.1923508,139.9675521,Asthma,propylthiouracil or methimazole
+103.1918519,1,1,49,Female,0,108.6457468,139.0605347,Hepatitis,propylthiouracil or methimazole
+102.3689784,1,0,66,Female,0,116.9933298,229.9030579,Asthma,Inhalers and tablets
+102.8856207,0,0,51,Female,1,98.1298804,260.7881264,Allergic Rhinitis,insulin shots
+103.1913971,1,0,73,Male,1,105.0779885,290.5290289,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.68061231,1,1,41,Male,0,136.0216988,268.249841,Hyperthyroidism,insulin shots
+97.99623791,0,0,70,Male,0,110.2281166,127.5544987,Allergic Rhinitis,Inhalers and tablets
+96.82234897,0,0,21,Female,1,114.9708458,138.9739951,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.2409299,1,1,50,Male,0,97.26919433,233.3867009,Asthma,Inhalers and tablets
+103.0730776,1,1,68,Male,1,112.9020368,276.7565053,Hyperthyroidism,topical corticosteroids
+99.25101912,0,1,28,Female,0,106.0108965,283.9774387,Allergic Rhinitis,Nasal corticosteroid sprays
+100.9652921,0,0,22,Male,0,90.21471529,148.2658585,Allergic Rhinitis,Inhalers and tablets
+97.23642671,0,0,37,Male,1,126.9247491,172.5821378,Asthma,Nasal corticosteroid sprays
+103.4390481,0,0,63,Male,1,138.7800518,199.4732238,Urinary Tract Infection,topical corticosteroids
+102.9168456,0,1,50,Male,1,106.5640323,211.061391,Hepatitis,propylthiouracil or methimazole
+103.8096483,1,0,43,Female,1,125.2725678,251.8593409,Diabetes,Vitamin C intake
+102.4861738,0,0,26,Male,1,113.6955337,137.872963,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.0513296,0,1,67,Male,1,104.4913591,236.4767348,Allergic Rhinitis,Nasal corticosteroid sprays
+96.1982909,1,1,72,Female,0,137.2004763,180.2293546,Allergic Rhinitis,topical corticosteroids
+101.8925158,0,1,51,Female,1,139.0344889,144.7990436,Urinary Tract Infection,topical corticosteroids
+98.65748374,1,1,74,Male,1,118.6863791,272.7471165,Hyperthyroidism,Vitamin C intake
+103.4465271,0,0,54,Female,0,97.35417373,199.039523,Allergic Rhinitis, Antiviral medications
+102.4178811,0,1,19,Female,0,118.2615757,194.834971,Diabetes,propylthiouracil or methimazole
+102.9125122,0,0,29,Male,1,135.3440394,258.4259695,Diabetes,Vitamin C intake
+102.4859945,0,1,30,Female,1,112.1052767,164.1568916,Hepatitis,insulin shots
+98.13444568,1,0,74,Male,0,124.4573491,265.6461388,Allergic Rhinitis,Inhalers and tablets
+102.2989961,0,1,71,Female,0,126.5820261,181.4376126,Diabetes,Inhalers and tablets
+96.86476501,1,1,30,Male,0,135.0087235,210.9040911,Hepatitis,Inhalers and tablets
+102.9773343,1,0,71,Female,0,96.97116467,135.3420951,Asthma,Nasal corticosteroid sprays
+102.868746,0,0,21,Female,1,117.5479995,187.0385443,Liver Cancer,Vitamin C intake
+97.77946974,1,0,33,Male,1,105.40411,255.8721383,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.5326928,1,1,20,Male,1,110.0814961,184.9158132,Urinary Tract Infection,Vitamin C intake
+99.68242588,1,1,47,Male,1,132.0438458,239.6991459,Hyperthyroidism,insulin shots
+98.44152694,0,1,21,Male,0,112.2986346,147.2900186,Hepatitis,Nasal corticosteroid sprays
+102.362764,0,1,76,Female,0,94.62405657,255.6312908,Hepatitis,insulin shots
+97.8207639,1,0,41,Male,1,92.75168181,195.9099977,Urinary Tract Infection,topical corticosteroids
+96.18931548,1,1,63,Male,0,122.0656326,161.0727607,Urinary Tract Infection,Nasal corticosteroid sprays
+97.54503831,0,1,30,Male,1,119.1715721,264.3183622,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.62609561,1,1,35,Female,0,101.1071929,194.4136954,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.9148235,1,0,41,Female,1,136.7832538,193.6756775,Eczema,propylthiouracil or methimazole
+103.7351128,1,1,70,Male,1,103.8963585,202.5755515,Urinary Tract Infection,Vitamin C intake
+98.23299994,1,1,47,Male,0,91.12743232,273.4302863,Urinary Tract Infection,Nasal corticosteroid sprays
+101.1318539,1,1,50,Female,0,116.9206147,263.0293223,Asthma,Vitamin C intake
+99.19742707,1,0,43,Male,0,112.2729041,185.1193865,Diabetes,topical corticosteroids
+103.8491975,0,1,58,Male,0,123.5778888,125.3573269,Hyperthyroidism,Vitamin C intake
+100.2897259,0,0,77,Female,1,94.36884685,146.2051751,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.5138971,0,0,25,Female,1,115.5893761,121.7907684,Diabetes,Inhalers and tablets
+96.92273401,1,0,61,Male,0,99.72250197,265.1244358,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.7632049,0,1,19,Male,1,105.8878906,289.8557113,Hepatitis,Nasal corticosteroid sprays
+97.42854253,1,0,33,Male,0,120.2538911,135.2600786,Diabetes,insulin shots
+103.7002745,1,0,41,Female,1,137.1701082,176.6648229,Hepatitis,Vitamin C intake
+98.1237309,0,0,49,Female,1,135.4223475,296.7500864,Diabetes,Vitamin C intake
+96.86722038,0,0,56,Female,0,108.0532435,149.5784427,Urinary Tract Infection,propylthiouracil or methimazole
+99.47651007,1,0,46,Female,0,97.39729692,131.0642991,Hepatitis,Vitamin C intake
+101.8283605,0,1,29,Male,1,132.6902035,256.6546293,Asthma, Antiviral medications
+98.50941851,0,1,79,Male,0,108.4814984,238.831711,Liver Cancer,propylthiouracil or methimazole
+100.8496708,1,1,73,Female,0,108.6415575,235.4638358,Hyperthyroidism,insulin shots
+100.0913845,1,0,48,Male,0,104.2325183,282.4520037,Hepatitis,topical corticosteroids
+99.08156347,0,1,55,Female,0,107.5677517,130.4057693,Allergic Rhinitis,propylthiouracil or methimazole
+100.6127043,1,0,53,Female,0,138.8761814,233.6893612,Hyperthyroidism,Nasal corticosteroid sprays
+98.03778005,0,0,40,Male,1,133.7150868,248.4065131,Allergic Rhinitis, Antiviral medications
+101.6702823,0,1,40,Female,1,94.37993155,238.8650937,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.01353023,1,1,28,Female,1,126.3926678,213.5601054,Eczema,Vitamin C intake
+103.4046013,1,0,71,Female,1,112.2110181,173.2303965,Liver Cancer,Nasal corticosteroid sprays
+100.307616,0,0,75,Male,1,139.6298583,192.3605072,Hepatitis,Nasal corticosteroid sprays
+101.75544,1,1,34,Female,0,130.1842752,242.5567183,Urinary Tract Infection,Vitamin C intake
+101.9356006,0,1,65,Female,0,104.4317009,219.6498771,Urinary Tract Infection,Vitamin C intake
+101.365028,1,1,71,Male,0,130.2836393,174.7781441,Urinary Tract Infection,Nasal corticosteroid sprays
+98.91377177,1,0,62,Female,0,138.5180337,253.6855504,Liver Cancer,insulin shots
+96.55979049,0,0,23,Female,0,111.1916099,283.6615536,Urinary Tract Infection,insulin shots
+101.3139015,1,0,36,Female,1,134.8214413,121.422402,Hepatitis,propylthiouracil or methimazole
+98.64160029,0,1,19,Female,0,96.97838434,170.3605341,Diabetes, Antiviral medications
+98.51132516,1,0,42,Female,1,119.3590034,215.0025124,Asthma, Antiviral medications
+102.7841222,0,0,21,Male,1,94.30389872,285.6811065,Urinary Tract Infection,Inhalers and tablets
+101.7580341,0,0,28,Male,1,100.3891895,246.0531115,Eczema,insulin shots
+98.40257815,1,1,72,Female,0,113.7306565,200.3140291,Asthma,Vitamin C intake
+98.4742773,0,1,54,Male,1,133.376291,156.9240428,Urinary Tract Infection, Antiviral medications
+99.26714327,1,0,67,Male,0,139.3319174,217.9965524,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.2192031,0,1,79,Male,0,93.30578906,261.9014842,Allergic Rhinitis,insulin shots
+98.36524162,0,0,31,Female,1,138.0047649,237.3666757,Urinary Tract Infection,Vitamin C intake
+97.01830239,0,1,72,Male,1,127.8057027,245.5447738,Diabetes,Inhalers and tablets
+99.36357067,1,1,32,Male,1,94.42241393,279.7814814,Liver Cancer,insulin shots
+103.5229094,1,1,59,Male,1,110.4730319,260.6813568,Hepatitis,Nasal corticosteroid sprays
+101.4185436,0,1,32,Male,0,135.7205248,192.811027,Liver Cancer,Inhalers and tablets
+103.2224444,1,1,61,Female,0,110.7257007,155.5132358,Eczema,insulin shots
+100.9241193,1,0,31,Male,0,117.7906922,174.2756542,Urinary Tract Infection,Vitamin C intake
+98.407599,0,1,35,Male,1,125.5123503,126.654631,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.3834977,0,1,59,Female,0,127.7621874,180.2087265,Allergic Rhinitis,propylthiouracil or methimazole
+96.00324752,0,1,44,Female,0,96.846352,250.5177628,Allergic Rhinitis,propylthiouracil or methimazole
+98.29530973,1,0,50,Male,0,99.30032091,253.2094,Hepatitis,topical corticosteroids
+99.4391052,0,1,19,Female,0,109.0884766,142.6810163,Eczema,insulin shots
+100.6398782,0,0,73,Female,0,117.6933463,298.5463145,Liver Cancer,insulin shots
+101.237645,1,0,67,Female,1,92.11164572,171.1070147,Eczema,Vitamin C intake
+99.71990552,0,1,79,Male,0,131.3124153,136.7075222,Hyperthyroidism,Nasal corticosteroid sprays
+99.53727839,1,0,67,Male,0,131.7292601,219.3214532,Diabetes,topical corticosteroids
+97.70961121,0,0,61,Female,0,105.195719,213.8404557,Hepatitis,insulin shots
+99.78548949,1,1,18,Male,1,117.9640528,256.2683384,Hyperthyroidism,Inhalers and tablets
+103.2094466,0,0,48,Male,1,113.1725917,148.8049212,Diabetes, Antiviral medications
+102.3681981,0,0,76,Male,0,91.34200073,125.0204206,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.35753117,0,1,26,Male,0,90.12233375,263.3877659,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.67836429,1,0,59,Male,0,103.1338512,226.6506483,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.1236161,1,1,29,Male,1,137.8013298,163.4411602,Asthma,topical corticosteroids
+101.0635268,0,1,56,Male,0,131.7121536,259.3484017,Asthma,topical corticosteroids
+98.68150604,0,0,69,Male,0,113.6270585,250.7716644,Urinary Tract Infection,Nasal corticosteroid sprays
+102.5473877,1,1,18,Male,1,122.6906486,297.651846,Urinary Tract Infection,Inhalers and tablets
+102.0091051,0,1,32,Male,0,134.6343263,139.8795431,Asthma, Antiviral medications
+101.3823654,0,0,34,Female,1,110.8578386,130.790233,Allergic Rhinitis,Vitamin C intake
+97.79712533,0,1,56,Male,1,114.5943252,187.1361962,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.59303946,1,0,69,Female,0,124.3921593,232.8581158,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.1954031,1,0,78,Male,0,102.2375131,183.8052023,Urinary Tract Infection,Inhalers and tablets
+97.95874035,0,1,37,Female,1,95.96773318,128.5919171,Diabetes,Nasal corticosteroid sprays
+99.80109075,1,1,63,Male,1,103.8608517,237.1732355,Diabetes, Antiviral medications
+102.7979016,0,0,79,Male,1,139.7166477,142.454965,Urinary Tract Infection,Inhalers and tablets
+96.58262583,1,0,63,Female,1,93.33624132,173.6330003,Diabetes,Inhalers and tablets
+99.31552809,0,1,59,Female,0,127.2782787,252.6345652,Urinary Tract Infection,Nasal corticosteroid sprays
+101.038123,0,1,35,Female,1,119.0532885,201.5664889,Asthma,Inhalers and tablets
+97.55548189,1,0,45,Male,0,118.2787295,296.9311013,Asthma, Antiviral medications
+101.570834,0,1,75,Male,1,133.4172959,264.9697612,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.95501735,0,0,42,Female,1,121.3998024,298.0200142,Hyperthyroidism,Nasal corticosteroid sprays
+97.95187552,1,1,72,Male,0,113.8020357,221.8075008,Diabetes,propylthiouracil or methimazole
+101.2484641,1,0,40,Male,0,124.7122549,280.9810016,Allergic Rhinitis,Nasal corticosteroid sprays
+96.04435855,0,0,47,Female,1,95.9791842,232.9939833,Urinary Tract Infection,Nasal corticosteroid sprays
+102.0077158,1,1,34,Male,1,115.6262935,215.9919582,Diabetes,topical corticosteroids
+102.1603695,1,1,31,Female,1,118.7631843,227.1988046,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.85269837,1,1,47,Female,0,132.2640034,183.0606843,Hyperthyroidism, Antiviral medications
+99.40116955,0,1,37,Male,0,98.14236163,171.2163891,Hepatitis,Nasal corticosteroid sprays
+97.40709345,1,1,61,Male,0,92.9255197,261.2620673,Eczema,topical corticosteroids
+103.6637283,0,1,51,Female,0,105.9840556,248.6738043,Asthma, Antiviral medications
+100.143662,1,1,70,Female,0,133.9158632,241.0380844,Asthma,insulin shots
+96.40174708,0,0,57,Male,1,96.77486969,248.5831762,Urinary Tract Infection,Inhalers and tablets
+97.99358624,0,0,43,Male,1,98.16544259,213.5399965,Urinary Tract Infection,topical corticosteroids
+102.7866908,1,0,55,Male,1,103.6335177,164.5739996,Diabetes,insulin shots
+99.6516946,0,0,24,Male,1,110.9757003,179.0124534,Urinary Tract Infection,topical corticosteroids
+102.4113328,0,1,18,Female,1,135.6052311,224.8264283,Hyperthyroidism,Vitamin C intake
+101.3406219,1,0,50,Male,1,107.7992162,268.1116901,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.9031396,1,1,60,Male,0,104.4928099,185.0281559,Liver Cancer,topical corticosteroids
+100.7636185,0,0,79,Male,1,116.4806165,137.6378097,Hyperthyroidism,insulin shots
+103.6003169,1,1,71,Female,1,136.815851,248.0952757,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.1314074,1,0,71,Male,1,115.6933247,269.1187733,Allergic Rhinitis,Vitamin C intake
+100.9012186,0,1,41,Male,0,128.3221219,134.7504894,Hepatitis,Nasal corticosteroid sprays
+101.7541917,0,1,53,Male,0,99.16237487,131.1948611,Hyperthyroidism,insulin shots
+100.0382253,0,0,59,Female,1,94.72543262,279.9316734,Asthma,propylthiouracil or methimazole
+102.6445534,1,0,56,Male,0,127.6314253,205.7255529,Hepatitis,Nasal corticosteroid sprays
+100.3829756,0,1,56,Male,0,117.1856168,200.3095357,Allergic Rhinitis, Antiviral medications
+103.1776648,1,1,36,Female,0,133.6221567,186.4729589,Hyperthyroidism,Vitamin C intake
+101.9492435,0,0,37,Female,0,131.3410998,214.7260086,Allergic Rhinitis,Vitamin C intake
+99.79739549,0,1,61,Female,1,124.2483576,225.8831024,Eczema,propylthiouracil or methimazole
+98.07353239,0,0,24,Male,0,105.0536154,213.4100999,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.9779179,0,1,48,Female,0,124.272186,191.0608455,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.1012915,1,0,22,Male,1,124.4173321,167.4648677,Diabetes,Inhalers and tablets
+102.1265095,1,0,39,Female,1,94.79167049,209.788915,Urinary Tract Infection,Inhalers and tablets
+100.1703985,1,1,35,Female,0,119.0023321,196.2159951,Hepatitis,Vitamin C intake
+101.0139875,1,0,58,Female,1,131.1657408,199.2143919,Asthma,Vitamin C intake
+98.19677958,1,1,38,Male,1,90.64488319,287.5864094,Hyperthyroidism,topical corticosteroids
+96.61986683,0,1,73,Female,0,115.9085373,208.117392,Asthma,propylthiouracil or methimazole
+98.28582521,0,1,35,Male,0,108.6507098,295.189047,Diabetes,Vitamin C intake
+98.17372086,1,0,34,Female,0,114.2449512,268.2861295,Asthma,topical corticosteroids
+98.55767655,1,1,59,Female,1,107.0156546,145.9823126,Urinary Tract Infection, Antiviral medications
+100.3212178,0,0,63,Male,1,135.5393989,142.882316,Asthma,topical corticosteroids
+97.10699249,1,0,78,Male,0,95.1208929,248.0071022,Diabetes,insulin shots
+97.85009184,1,0,75,Female,1,97.72774574,143.2893338,Asthma,Nasal corticosteroid sprays
+101.5515985,0,1,59,Female,1,101.0556751,246.8144433,Liver Cancer,insulin shots
+101.6513531,1,1,37,Female,1,99.42083925,275.3888984,Eczema,Inhalers and tablets
+96.51383081,1,0,30,Male,0,134.8528366,141.2504684,Allergic Rhinitis,Inhalers and tablets
+99.26079496,1,0,27,Male,0,120.671418,158.275657,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.3408891,1,0,51,Male,1,131.5708091,205.2040011,Hepatitis,Vitamin C intake
+99.32619387,1,0,66,Male,1,116.2826412,254.3693351,Asthma,propylthiouracil or methimazole
+97.65467512,1,0,33,Male,1,116.6047827,289.932521,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.36114814,0,1,75,Female,0,117.5556414,186.4797707,Eczema,Nasal corticosteroid sprays
+103.2387078,1,1,21,Male,0,127.8153372,291.3279155,Diabetes,Vitamin C intake
+100.6726353,1,0,69,Female,0,95.69833682,228.2880385,Eczema, Antiviral medications
+101.5641839,1,1,72,Female,1,113.0245679,193.5515746,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.8538563,1,1,69,Female,1,93.82001628,141.7559571,Asthma,propylthiouracil or methimazole
+102.1247566,0,1,69,Male,1,130.9422372,222.9176558,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.04304823,1,1,56,Male,1,136.1704876,127.2507855,Eczema,propylthiouracil or methimazole
+96.04716867,0,0,43,Female,0,113.9759115,147.5948119,Urinary Tract Infection,topical corticosteroids
+98.81407042,1,0,60,Female,0,105.5786733,186.8641238,Diabetes,Vitamin C intake
+102.027801,0,1,38,Female,1,108.1284283,298.3836182,Hepatitis, Antiviral medications
+102.8275836,1,0,61,Female,0,130.8519352,174.5868149,Hepatitis,Vitamin C intake
+103.6274427,1,1,26,Female,1,134.4863193,207.4665973,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.35217026,0,0,64,Female,1,119.882432,262.4166662,Urinary Tract Infection, Antiviral medications
+101.9801254,0,0,19,Female,1,128.1794773,145.585165,Liver Cancer,topical corticosteroids
+100.3690585,1,0,59,Male,1,107.1022565,226.1323639,Liver Cancer,topical corticosteroids
+100.8260207,1,0,49,Female,0,125.4947441,128.7571884,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.76430955,1,1,36,Female,1,91.43797686,280.9655271,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.75537308,1,0,34,Male,1,130.7287054,280.0302971,Allergic Rhinitis,Vitamin C intake
+99.48668781,1,1,76,Female,0,101.1178924,158.804662,Liver Cancer,propylthiouracil or methimazole
+96.23219856,0,1,44,Female,0,132.8407605,267.4425125,Urinary Tract Infection, Antiviral medications
+98.68903635,1,0,43,Female,1,97.11796682,207.9828581,Urinary Tract Infection,propylthiouracil or methimazole
+101.4331351,1,1,42,Female,1,101.3287215,142.019023,Eczema, Antiviral medications
+99.23453335,1,1,65,Female,0,96.26720906,182.7568098,Liver Cancer,propylthiouracil or methimazole
+97.32035785,0,1,20,Female,0,96.51091262,276.6767765,Liver Cancer,Vitamin C intake
+99.73912119,1,1,55,Male,1,93.93024811,195.1635278,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.02102238,1,0,63,Male,0,124.5409068,223.1506365,Eczema,propylthiouracil or methimazole
+100.9780557,1,0,54,Male,1,129.2014862,221.8375157,Hepatitis,Nasal corticosteroid sprays
+96.21573162,0,1,70,Female,1,93.88676488,282.0517118,Urinary Tract Infection,topical corticosteroids
+99.15216205,0,1,30,Male,0,128.7346154,260.6428828,Hyperthyroidism, Antiviral medications
+100.5151359,1,1,39,Male,1,127.8667017,205.5409587,Eczema,insulin shots
+96.21681637,1,1,64,Male,0,92.12584704,249.6060292,Asthma,insulin shots
+101.1419972,0,1,63,Female,0,95.39086909,229.0277478,Diabetes,Vitamin C intake
+97.0855959,0,1,32,Female,1,129.6527591,257.1512217,Allergic Rhinitis,propylthiouracil or methimazole
+99.69358755,0,0,61,Male,1,115.6739596,210.857495,Liver Cancer,topical corticosteroids
+96.40227707,1,0,52,Male,0,92.96326185,202.9685096,Hepatitis,topical corticosteroids
+99.03283091,0,1,58,Female,1,95.9461109,200.9872904,Hepatitis,topical corticosteroids
+97.69328227,0,1,68,Male,1,102.6506236,200.833453,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.61476644,0,0,48,Male,0,93.31236806,275.9421995,Allergic Rhinitis,insulin shots
+102.0898377,0,1,76,Male,1,123.3793212,178.5389316,Eczema,propylthiouracil or methimazole
+99.03300972,1,0,78,Female,0,127.7275136,263.9660918,Liver Cancer, Antiviral medications
+102.0160786,1,1,60,Female,1,129.1185407,239.6104162,Eczema,Nasal corticosteroid sprays
+102.6553943,1,0,40,Male,1,136.0049035,193.7330989,Liver Cancer,Nasal corticosteroid sprays
+98.01817225,0,1,50,Male,1,100.2700593,161.908011,Eczema,Inhalers and tablets
+96.65524986,0,1,37,Female,0,135.0587434,191.1714833,Liver Cancer,Nasal corticosteroid sprays
+96.1550663,1,1,72,Male,1,99.23909123,217.3790011,Hepatitis,Vitamin C intake
+100.3153524,1,1,28,Female,0,107.5766833,292.4543086,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.9992626,1,1,71,Male,0,94.53896565,280.2077697,Hepatitis, Antiviral medications
+98.79968275,1,0,60,Male,1,132.2930761,252.464303,Urinary Tract Infection,insulin shots
+101.2011527,0,1,74,Female,0,137.092249,236.2649753,Asthma,Vitamin C intake
+102.2498644,0,1,53,Female,0,137.4395803,275.8716432,Liver Cancer,insulin shots
+101.2140372,1,0,29,Female,0,107.3918271,247.2975527,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.0338656,1,0,36,Male,1,98.0278668,222.9590629,Hepatitis,Inhalers and tablets
+103.5968939,1,0,24,Male,0,115.0317208,263.3085807,Asthma,insulin shots
+97.59488546,1,1,48,Female,1,126.4277045,247.3317928,Urinary Tract Infection,propylthiouracil or methimazole
+96.16304014,0,0,26,Female,0,102.0911261,220.9879839,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.21905877,0,0,65,Male,0,118.5117679,142.28069,Allergic Rhinitis,topical corticosteroids
+97.0097678,0,0,34,Male,1,94.95528423,220.6835082,Hyperthyroidism,propylthiouracil or methimazole
+101.3556708,0,1,64,Female,1,118.9066839,154.636812,Eczema,propylthiouracil or methimazole
+100.5117567,1,1,69,Male,1,90.69921558,231.3667299,Hyperthyroidism,propylthiouracil or methimazole
+97.74371633,1,0,53,Male,1,100.8499038,223.834005,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.5957198,0,1,66,Male,0,99.57737601,129.5173895,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.1351848,1,0,76,Male,0,104.0928396,222.643989,Diabetes,Vitamin C intake
+97.34231315,1,0,29,Male,0,135.0830146,154.0912571,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.85798,1,1,78,Female,0,116.8563245,205.6504246,Hyperthyroidism,insulin shots
+101.9834052,0,0,61,Male,0,138.6789952,281.4355704,Hepatitis,insulin shots
+96.91626297,1,1,75,Male,1,94.93428593,141.6509718,Asthma,Inhalers and tablets
+102.5544094,1,0,39,Male,1,100.7007693,288.5127258,Hepatitis,insulin shots
+103.7177662,0,1,59,Male,0,115.2097636,152.3538123,Allergic Rhinitis,topical corticosteroids
+96.86479,0,1,23,Female,0,125.3878045,123.415245,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.2054274,0,0,32,Female,1,108.3231513,261.6162683,Allergic Rhinitis,topical corticosteroids
+98.49565796,0,1,40,Female,0,119.4690286,164.151605,Hyperthyroidism,topical corticosteroids
+101.4187783,1,0,32,Female,0,111.9832915,247.0111864,Asthma,propylthiouracil or methimazole
+103.6653827,0,0,65,Female,1,137.8873868,279.7780492,Asthma,Inhalers and tablets
+99.17323553,1,1,73,Male,1,99.04242688,199.9613045,Urinary Tract Infection,propylthiouracil or methimazole
+101.7201176,0,1,37,Male,0,107.7411172,265.2457843,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.60797182,1,0,44,Male,0,108.9807528,229.2338678,Hyperthyroidism, Antiviral medications
+101.5249153,1,1,68,Male,1,100.7137,192.3236157,Liver Cancer,propylthiouracil or methimazole
+101.0179392,0,0,74,Female,0,101.3777106,128.0970559,Urinary Tract Infection,Nasal corticosteroid sprays
+96.81521044,1,0,39,Female,1,95.64227393,275.1553804,Diabetes,Vitamin C intake
+102.1798471,1,0,41,Female,0,139.2306375,124.1873847,Allergic Rhinitis,propylthiouracil or methimazole
+102.8023459,0,0,34,Female,1,96.18077012,198.6631356,Diabetes,Vitamin C intake
+100.8032929,0,1,55,Male,0,95.51580806,194.6885562,Hepatitis,Inhalers and tablets
+96.96844052,1,0,36,Male,0,96.7956185,274.7367139,Asthma,topical corticosteroids
+103.8707548,0,0,47,Female,1,128.113684,177.1288384,Hyperthyroidism,Nasal corticosteroid sprays
+102.2610828,0,0,72,Female,1,125.2365458,166.2920028,Hepatitis,insulin shots
+98.77763012,0,1,25,Male,1,117.8566061,140.6360323,Asthma,Nasal corticosteroid sprays
+99.42702411,0,0,48,Female,1,92.03042816,137.8800539,Liver Cancer,topical corticosteroids
+98.96456701,0,0,21,Male,0,106.4057704,150.2680787,Allergic Rhinitis,insulin shots
+100.0476863,1,1,73,Female,1,95.78613035,145.9261655,Asthma,propylthiouracil or methimazole
+98.7298494,0,0,58,Male,0,104.1805721,165.9998146,Liver Cancer,Inhalers and tablets
+102.796605,1,1,55,Male,0,120.0194754,136.1331414,Urinary Tract Infection,Nasal corticosteroid sprays
+102.5786473,1,0,55,Female,1,105.6003455,175.2229593,Urinary Tract Infection,Inhalers and tablets
+96.84431097,1,1,78,Female,0,138.8089524,193.3097582,Urinary Tract Infection,Nasal corticosteroid sprays
+103.6863005,0,0,57,Male,0,112.1977935,150.4543886,Allergic Rhinitis,insulin shots
+101.0846808,0,0,22,Female,0,117.6957946,230.6055772,Allergic Rhinitis, Antiviral medications
+102.6296585,0,1,48,Female,0,104.5294663,178.5523253,Diabetes, Antiviral medications
+101.6584691,1,0,74,Female,1,132.7682833,124.8908146,Asthma,Vitamin C intake
+99.48389716,1,0,30,Female,1,99.43924928,130.5303208,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.8703624,1,0,50,Female,1,93.48045785,190.189148,Asthma,Vitamin C intake
+103.7237898,1,1,25,Male,0,132.0529138,177.6074635,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.16065917,1,1,73,Female,1,113.7838398,194.3081062,Asthma, Antiviral medications
+102.4655938,0,1,61,Female,0,123.9565554,178.3592023,Liver Cancer,insulin shots
+100.3053833,0,0,42,Female,0,98.96486417,187.5923685,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.86798003,1,1,51,Male,0,139.9361663,268.9934518,Asthma, Antiviral medications
+99.48459594,0,0,37,Female,1,114.5824187,141.7739274,Liver Cancer,propylthiouracil or methimazole
+101.8482097,1,0,44,Male,1,95.25859423,156.4607024,Hyperthyroidism,insulin shots
+98.1471643,1,0,21,Female,1,111.9029175,255.384073,Liver Cancer,Inhalers and tablets
+102.8137053,1,0,73,Male,0,122.9274132,225.4852338,Urinary Tract Infection, Antiviral medications
+102.6458482,0,0,72,Female,0,94.2502955,208.7362994,Eczema,Vitamin C intake
+96.69330318,0,1,27,Male,0,97.16837808,255.4301962,Diabetes,Nasal corticosteroid sprays
+103.0530495,0,1,26,Male,1,110.0312144,189.3087623,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.95090751,1,0,30,Female,0,119.5278616,140.7146469,Allergic Rhinitis,insulin shots
+99.71766773,0,0,39,Female,0,95.08610783,130.913756,Urinary Tract Infection,topical corticosteroids
+100.8826536,0,1,44,Female,1,136.2645158,203.668236,Urinary Tract Infection, Antiviral medications
+99.03191443,0,1,54,Male,0,138.8926665,193.2737634,Liver Cancer,Vitamin C intake
+96.22959998,1,0,75,Female,0,93.23552056,207.1508718,Liver Cancer,Inhalers and tablets
+102.8076227,0,0,76,Male,1,138.7603747,193.3488822,Hyperthyroidism,topical corticosteroids
+97.45471886,0,0,47,Female,1,106.9315823,162.073282,Allergic Rhinitis,insulin shots
+97.6969588,1,0,27,Male,0,119.7480415,279.5080613,Asthma,propylthiouracil or methimazole
+102.3826589,0,0,38,Female,1,139.5330659,168.4487529,Urinary Tract Infection,propylthiouracil or methimazole
+98.72271075,1,1,73,Female,1,96.13810838,293.4254438,Eczema,Vitamin C intake
+103.0425598,1,1,63,Male,1,131.9054566,241.5175372,Hepatitis,insulin shots
+101.60947,0,1,29,Male,1,126.260025,164.3368973,Liver Cancer,topical corticosteroids
+98.21014861,1,1,67,Female,0,103.9259166,219.847341,Hyperthyroidism,insulin shots
+96.08120892,0,0,23,Female,0,125.6746904,261.3385536,Diabetes,Nasal corticosteroid sprays
+103.5845006,1,0,49,Female,1,119.0959312,174.8303116,Allergic Rhinitis,Inhalers and tablets
+96.6849037,0,1,39,Male,0,103.6486395,193.2142659,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.7605973,1,0,58,Female,0,129.4746366,135.103504,Hepatitis,Vitamin C intake
+99.90862277,0,0,29,Male,1,122.1915589,234.443819,Hyperthyroidism,topical corticosteroids
+102.0653172,0,1,38,Male,0,110.0117764,156.6222432,Diabetes,topical corticosteroids
+101.5248747,0,0,58,Female,1,113.7913142,294.2240723,Hyperthyroidism,Nasal corticosteroid sprays
+101.1672232,0,1,21,Male,1,120.1582716,187.1949397,Eczema,Vitamin C intake
+99.92657068,1,0,18,Male,1,110.22218,297.3555688,Liver Cancer,propylthiouracil or methimazole
+102.3434629,0,0,46,Male,1,114.226643,260.7642593,Diabetes,Vitamin C intake
+96.7444268,0,1,35,Female,0,103.9445317,216.7564134,Asthma,propylthiouracil or methimazole
+97.7727712,0,1,31,Male,0,128.3999778,196.2754422,Diabetes,topical corticosteroids
+101.5342972,0,0,66,Male,0,95.4018334,284.0686917,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.44964824,1,0,67,Male,1,102.534493,201.3135602,Allergic Rhinitis,insulin shots
+100.6524447,0,1,28,Male,1,114.8636891,120.1801906,Hepatitis, Antiviral medications
+99.78608391,1,1,54,Female,1,121.4185515,203.6373697,Diabetes,Nasal corticosteroid sprays
+100.2473754,0,0,66,Male,0,96.73041904,269.2869213,Urinary Tract Infection,propylthiouracil or methimazole
+99.4040305,1,0,28,Male,1,94.98016951,172.0649019,Eczema,Vitamin C intake
+101.9674835,1,1,49,Male,1,92.64262104,294.9747247,Liver Cancer,propylthiouracil or methimazole
+98.64633038,1,0,68,Male,1,93.41143366,120.0977277,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.6228395,1,0,66,Female,1,123.905372,288.0312269,Allergic Rhinitis,Nasal corticosteroid sprays
+98.16733142,0,1,67,Male,0,138.6036275,206.7935268,Allergic Rhinitis,Inhalers and tablets
+98.01122941,1,1,23,Male,0,109.1316491,227.6161953,Eczema,Inhalers and tablets
+96.96524708,1,0,26,Female,1,123.9602181,271.1077899,Hyperthyroidism,insulin shots
+97.54067435,1,1,57,Female,0,97.63683256,188.4276326,Hepatitis,Vitamin C intake
+96.95643793,0,1,45,Female,1,121.0983381,183.2552257,Urinary Tract Infection,insulin shots
+100.2869117,0,1,58,Female,1,94.81668143,233.7972493,Diabetes,Inhalers and tablets
+102.0975169,0,0,45,Female,1,93.82586295,225.32865,Hyperthyroidism,topical corticosteroids
+97.48119874,1,1,43,Female,0,127.5804873,211.8591159,Eczema,Inhalers and tablets
+97.73107712,1,0,45,Male,1,128.3786054,128.1872515,Urinary Tract Infection,Inhalers and tablets
+99.8735887,1,0,79,Female,1,129.6365708,253.0529302,Liver Cancer,Nasal corticosteroid sprays
+101.79668,1,0,48,Female,0,100.0965877,221.354684,Urinary Tract Infection,topical corticosteroids
+103.8128562,0,0,42,Male,0,123.1046617,174.1149027,Hepatitis,topical corticosteroids
+100.197095,1,1,18,Male,1,114.512518,191.1548822,Liver Cancer,Nasal corticosteroid sprays
+98.26398963,0,0,20,Male,0,103.0832637,142.1358537,Urinary Tract Infection, Antiviral medications
+96.80420886,1,0,52,Female,1,107.1807825,145.1370483,Urinary Tract Infection, Antiviral medications
+97.55294062,1,0,30,Female,0,132.9836156,220.1662347,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.81986531,1,1,64,Male,1,117.3310017,170.3024937,Diabetes,propylthiouracil or methimazole
+97.43553235,1,1,41,Female,1,137.6290247,197.7532378,Diabetes,propylthiouracil or methimazole
+96.11318694,0,1,78,Female,1,91.57992616,229.8801557,Allergic Rhinitis,insulin shots
+100.2730807,1,1,18,Male,1,111.5203203,292.3350913,Urinary Tract Infection,insulin shots
+98.19449061,0,1,75,Female,0,135.7469579,177.2947095,Asthma,topical corticosteroids
+103.7943594,1,0,38,Male,0,109.1814938,242.7781793,Hyperthyroidism,topical corticosteroids
+100.4268717,0,0,66,Female,0,105.7279599,181.6743461,Liver Cancer,insulin shots
+101.5793391,1,1,71,Female,1,108.8168281,167.044896,Eczema,topical corticosteroids
+97.01023594,0,0,51,Male,1,112.9828119,255.4849202,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.9476896,1,1,30,Male,0,91.64298981,201.4892546,Hepatitis,Vitamin C intake
+99.92702956,1,0,19,Male,1,117.8333275,164.2670913,Hyperthyroidism,propylthiouracil or methimazole
+102.9817579,0,0,61,Female,0,133.0180351,296.9439505,Hyperthyroidism,insulin shots
+100.5925138,0,0,18,Male,1,105.1522286,181.4933649,Hepatitis,topical corticosteroids
+99.75517556,0,1,58,Female,1,125.3029602,202.7638815,Hepatitis,Vitamin C intake
+99.52375039,0,1,64,Female,1,114.5739804,227.9124601,Diabetes,Vitamin C intake
+97.47490936,1,0,33,Female,0,96.72441211,122.8574309,Hyperthyroidism,insulin shots
+96.41101374,1,1,32,Male,0,125.7861595,244.5321109,Allergic Rhinitis,insulin shots
+103.5285088,1,1,62,Female,0,114.3727463,236.3597925,Allergic Rhinitis, Antiviral medications
+99.8218335,0,0,74,Male,1,95.46909964,120.3685524,Allergic Rhinitis,insulin shots
+102.5769252,0,0,40,Female,0,123.751229,205.775211,Eczema, Antiviral medications
+99.20565954,1,0,37,Female,1,123.0039295,282.2600989,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.59265736,1,0,26,Female,1,124.2687084,241.0871527,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.0355657,0,1,24,Female,0,118.6105117,194.3693459,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.42887259,0,0,42,Male,1,113.7955528,281.1482719,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.19358068,1,1,50,Female,0,132.7175735,246.5939415,Urinary Tract Infection,Nasal corticosteroid sprays
+100.5027168,1,0,55,Female,1,115.3342524,257.2437435,Hyperthyroidism,insulin shots
+98.43068409,1,1,37,Male,1,109.569241,216.8636617,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.951345,1,0,28,Female,0,114.7345565,261.7149423,Asthma,propylthiouracil or methimazole
+96.9476125,1,0,22,Female,0,138.5435379,236.8375097,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.1155476,0,0,70,Female,1,120.8469838,133.9541609,Hepatitis,propylthiouracil or methimazole
+100.8505412,0,0,20,Female,1,107.6381885,125.5705537,Hyperthyroidism,Nasal corticosteroid sprays
+102.3259266,1,0,37,Female,1,138.8891472,269.7750956,Eczema, Antiviral medications
+97.8054971,1,0,78,Female,0,106.0241392,240.8903541,Asthma,insulin shots
+100.1805803,0,1,36,Male,0,91.40734933,241.0042644,Liver Cancer,Inhalers and tablets
+99.60411572,0,1,47,Male,0,92.2559226,183.5390518,Urinary Tract Infection,Inhalers and tablets
+99.54176803,1,1,64,Male,0,131.8467076,266.3006245,Hyperthyroidism,propylthiouracil or methimazole
+102.8813333,0,0,51,Male,0,107.4438394,268.9440303,Urinary Tract Infection,insulin shots
+103.9202501,0,1,56,Female,0,127.1028567,184.4338333,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.44304195,1,0,51,Male,0,91.34499213,151.8935946,Eczema,Inhalers and tablets
+100.9682186,1,1,39,Female,1,134.5671445,258.233852,Asthma,propylthiouracil or methimazole
+100.8770473,1,0,45,Female,1,107.0628262,245.4654242,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.9207144,1,0,74,Male,1,94.86750246,121.5176477,Urinary Tract Infection,topical corticosteroids
+103.5807216,0,1,61,Male,1,107.2571514,203.2846557,Hepatitis,propylthiouracil or methimazole
+97.66230325,0,1,26,Male,0,107.868304,288.5246129,Diabetes,insulin shots
+97.68820156,1,1,39,Female,0,107.563463,200.0239782,Hyperthyroidism,insulin shots
+101.2834251,0,0,75,Male,1,123.0620003,159.8737376,Urinary Tract Infection,Nasal corticosteroid sprays
+97.25645675,1,1,49,Male,1,102.3806965,123.5607005,Asthma,topical corticosteroids
+97.39050839,1,0,40,Female,1,122.4041412,170.6042071,Hepatitis,Inhalers and tablets
+96.60051895,1,1,66,Female,1,119.6265833,285.8517641,Urinary Tract Infection, Antiviral medications
+96.02140578,1,1,30,Male,1,135.5194509,184.4077834,Diabetes, Antiviral medications
+99.60402964,0,1,28,Female,0,93.2750118,136.1939735,Hepatitis, Antiviral medications
+100.7504896,1,0,78,Female,0,105.2456228,230.4196876,Liver Cancer, Antiviral medications
+98.33007431,0,1,76,Female,1,106.8797129,174.5721358,Eczema,insulin shots
+97.85180988,0,0,76,Female,0,90.98559951,249.2057154,Asthma,Inhalers and tablets
+101.6556466,1,1,69,Male,1,106.3058419,162.1664299,Asthma,Nasal corticosteroid sprays
+101.6239005,1,0,43,Female,0,113.0454693,208.8855609,Asthma,insulin shots
+99.63225061,0,1,19,Male,1,133.1684261,185.3398522,Asthma,Nasal corticosteroid sprays
+101.4990794,1,0,32,Male,0,118.4024702,170.5361444,Hepatitis,Nasal corticosteroid sprays
+103.3912884,1,0,32,Male,0,135.0704923,282.8113662,Allergic Rhinitis,Nasal corticosteroid sprays
+102.3026242,1,0,64,Male,1,103.3309443,247.2542412,Eczema,Vitamin C intake
+101.0004641,0,0,26,Female,0,124.7979238,157.6355378,Hepatitis,topical corticosteroids
+101.2894643,0,0,31,Female,1,119.3994617,155.2956229,Diabetes,topical corticosteroids
+103.4693477,0,0,64,Male,0,139.2882391,267.8022247,Asthma,topical corticosteroids
+99.40111173,1,0,19,Female,0,108.8868797,191.2955123,Hyperthyroidism,Vitamin C intake
+100.356499,1,0,55,Female,1,109.5150395,276.5849219,Urinary Tract Infection,insulin shots
+101.1810778,1,1,50,Female,1,118.6269322,222.4384017,Hepatitis,Inhalers and tablets
+103.2672916,1,1,28,Female,1,130.4163284,208.9220379,Urinary Tract Infection,insulin shots
+102.6130493,0,1,25,Female,1,95.00283416,219.3213337,Diabetes,Inhalers and tablets
+96.57127869,0,0,41,Female,1,123.7555648,238.7709158,Hyperthyroidism,insulin shots
+97.32738231,1,0,63,Female,1,106.7983731,221.8272686,Asthma,Nasal corticosteroid sprays
+98.4608945,0,0,59,Male,1,115.1384261,242.8290483,Liver Cancer,insulin shots
+101.9916618,0,1,68,Female,0,128.245195,221.7252421,Asthma,Vitamin C intake
+100.5536564,0,0,20,Male,0,106.9769712,131.7649125,Hyperthyroidism,insulin shots
+98.30888471,0,1,42,Female,1,120.7413937,143.0843511,Urinary Tract Infection,Vitamin C intake
+96.99482927,1,0,74,Male,0,108.1667153,131.7088779,Eczema,insulin shots
+101.5094239,1,1,58,Male,0,111.7995566,166.7324065,Urinary Tract Infection,topical corticosteroids
+101.5978695,1,1,34,Female,1,114.8475856,222.5825923,Hepatitis,Vitamin C intake
+103.5414099,0,1,67,Female,1,132.3667047,161.0337315,Asthma,insulin shots
+100.0037774,0,0,52,Female,1,129.3574804,214.1543927,Asthma,Inhalers and tablets
+99.95036175,1,1,57,Female,0,132.0190244,260.8054876,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.64353482,1,0,21,Female,1,116.7917012,154.5332786,Asthma,Vitamin C intake
+96.31888627,0,0,56,Male,0,104.367778,242.0361691,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.45622931,1,0,21,Female,0,92.37656806,298.5512437,Hyperthyroidism,insulin shots
+98.57857267,1,0,60,Female,0,139.8113847,244.7374468,Eczema, Antiviral medications
+98.00294322,1,0,24,Female,0,110.1013676,215.9294731,Hepatitis,Vitamin C intake
+96.73061509,1,1,59,Male,0,101.2942989,165.525793,Liver Cancer,topical corticosteroids
+103.6952888,1,0,71,Male,0,127.1444013,220.8208759,Asthma,Inhalers and tablets
+102.6876689,1,1,19,Female,1,94.59789176,201.7067023,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.6015929,0,1,21,Female,1,132.2093442,288.8202664,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.6062902,1,1,62,Female,0,94.73668076,235.3739315,Allergic Rhinitis,Nasal corticosteroid sprays
+103.9965793,1,1,25,Male,0,106.8419031,289.7533603,Hyperthyroidism,insulin shots
+101.3782527,0,0,44,Male,0,93.36348883,129.3353036,Asthma,Nasal corticosteroid sprays
+98.15608821,1,1,46,Male,1,130.0592836,288.9766793,Diabetes,Vitamin C intake
+96.32185339,1,0,42,Female,1,113.7634184,197.8586709,Eczema,Nasal corticosteroid sprays
+102.0501506,0,1,25,Male,1,100.4869579,299.1191658,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.76400659,1,0,53,Female,0,129.7825875,169.3264073,Asthma,insulin shots
+101.2120759,1,1,34,Female,1,122.5768407,242.4312256,Diabetes,Nasal corticosteroid sprays
+103.3285823,0,1,48,Female,1,105.0923507,203.985611,Liver Cancer,Vitamin C intake
+97.45191318,0,0,62,Female,1,130.2063356,185.0649318,Hyperthyroidism,propylthiouracil or methimazole
+100.682637,1,1,27,Female,1,111.6455242,256.6239086,Urinary Tract Infection,topical corticosteroids
+101.0782778,0,1,31,Female,1,116.997379,279.0844395,Eczema,Vitamin C intake
+99.93380642,1,1,62,Female,0,100.0038493,160.4186771,Allergic Rhinitis,Inhalers and tablets
+96.72993925,0,0,61,Female,0,110.1150478,170.0279455,Diabetes,Inhalers and tablets
+98.78368845,0,0,58,Female,1,121.2481938,195.6111724,Eczema, Antiviral medications
+98.66646715,0,0,18,Female,0,112.6614303,200.7950695,Diabetes,Inhalers and tablets
+101.3610681,0,0,37,Male,1,128.1721107,120.9286711,Hepatitis,Inhalers and tablets
+102.8618648,0,1,44,Male,0,99.03004254,155.0294651,Hyperthyroidism,insulin shots
+98.63842931,0,0,60,Male,1,90.93016611,134.7256023,Hepatitis, Antiviral medications
+101.5493894,1,0,24,Male,1,125.1665823,222.927531,Liver Cancer,Nasal corticosteroid sprays
+98.30574236,1,1,60,Male,1,133.1354903,124.566949,Liver Cancer, Antiviral medications
+103.5615483,1,0,51,Female,0,118.8421648,252.7399522,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.5085283,0,1,35,Male,0,100.6476403,296.05721,Asthma,Vitamin C intake
+100.4007729,1,0,57,Male,1,138.1058537,196.2876462,Eczema,Nasal corticosteroid sprays
+99.63860727,0,1,56,Male,1,127.1104005,133.399266,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.51613726,1,1,62,Female,0,113.3647657,164.9971491,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.58619029,1,0,26,Male,1,136.8581463,149.6066835,Allergic Rhinitis,propylthiouracil or methimazole
+103.7614778,0,0,44,Male,0,116.6359668,175.9450544,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.23340046,0,0,71,Male,0,120.7211149,232.6790437,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.11677,0,1,75,Female,1,128.4559583,137.4106975,Allergic Rhinitis,Vitamin C intake
+103.9049537,1,1,24,Male,1,111.6862242,206.3939556,Hyperthyroidism, Antiviral medications
+101.2612831,1,0,50,Male,0,118.3058221,265.4506333,Allergic Rhinitis, Antiviral medications
+100.3407488,1,0,64,Female,0,121.3379236,226.6555387,Liver Cancer,Vitamin C intake
+99.30598057,1,1,57,Male,0,116.1134793,232.7334795,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.50066033,0,0,25,Male,1,108.2137335,180.1744565,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.89423487,1,0,36,Female,0,97.38718444,165.0737048,Urinary Tract Infection,propylthiouracil or methimazole
+102.0515452,1,0,25,Male,1,97.5236327,139.4113176,Asthma,topical corticosteroids
+101.0032699,1,1,68,Male,0,124.2653318,162.9046583,Diabetes,Inhalers and tablets
+102.0799243,1,1,24,Female,1,105.0137837,181.3443542,Diabetes,insulin shots
+97.62846591,1,1,49,Female,0,111.7694392,129.7979148,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.3937571,0,0,30,Male,1,105.932659,180.0459219,Hyperthyroidism,propylthiouracil or methimazole
+103.4213821,0,0,56,Male,1,131.510719,262.9400015,Urinary Tract Infection,Nasal corticosteroid sprays
+99.50492876,1,0,30,Female,1,93.22137648,289.8385639,Hepatitis,insulin shots
+101.5860002,1,1,67,Female,1,100.1779021,259.6349049,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.97140867,0,0,34,Male,1,110.621919,231.52198,Diabetes,propylthiouracil or methimazole
+103.7851745,1,0,71,Male,1,131.1855352,257.5377427,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.8709733,1,1,51,Male,1,122.3021327,232.5627764,Hyperthyroidism,Inhalers and tablets
+97.9143797,0,0,80,Male,1,102.8223317,224.2082045,Allergic Rhinitis,insulin shots
+97.26702531,1,0,30,Male,0,120.0616135,135.3962458,Asthma,insulin shots
+100.4067121,1,1,40,Female,0,110.293297,130.9236502,Diabetes,topical corticosteroids
+100.4180113,1,1,63,Female,1,95.67792883,126.0018616,Allergic Rhinitis,propylthiouracil or methimazole
+96.74567361,1,1,44,Female,1,99.59580057,176.3902982,Liver Cancer,Vitamin C intake
+103.9380571,1,1,36,Female,0,102.2793305,272.584586,Hyperthyroidism,Vitamin C intake
+103.303439,1,1,28,Female,1,131.3614412,131.7050794,Urinary Tract Infection, Antiviral medications
+99.69158315,0,1,20,Female,0,113.207985,142.9564423,Hyperthyroidism,Nasal corticosteroid sprays
+96.93972919,1,1,53,Male,0,117.9912505,285.4408418,Liver Cancer,Vitamin C intake
+102.6571454,1,1,49,Male,1,111.8066456,199.5453126,Urinary Tract Infection,Nasal corticosteroid sprays
+99.98700404,1,0,76,Female,0,122.3461026,174.2647933,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.7328266,0,0,31,Female,1,91.85018674,232.7133381,Eczema,topical corticosteroids
+100.0709761,1,0,62,Female,1,97.96792443,131.8422466,Allergic Rhinitis,topical corticosteroids
+98.18739917,0,0,77,Female,0,96.82153144,241.9616023,Asthma,propylthiouracil or methimazole
+102.6777916,1,0,48,Female,0,102.9198424,220.6664493,Diabetes,Nasal corticosteroid sprays
+103.8419571,0,0,39,Male,0,130.1769091,173.0850186,Asthma,Vitamin C intake
+97.94984725,1,0,33,Male,1,122.9335356,188.6619871,Asthma, Antiviral medications
+100.4101206,1,0,18,Female,1,98.79926109,137.2494453,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.06868811,1,1,18,Female,0,132.6260509,255.3534044,Asthma,Inhalers and tablets
+103.3749452,1,1,60,Female,1,138.1893445,161.9601571,Liver Cancer,Nasal corticosteroid sprays
+100.0659271,0,1,23,Female,1,114.2920983,227.9236536,Asthma,Nasal corticosteroid sprays
+103.03461,0,1,76,Female,1,90.99543708,238.7503257,Liver Cancer,Vitamin C intake
+102.9122155,1,0,25,Male,0,132.9792001,121.9091782,Liver Cancer,Inhalers and tablets
+98.20997922,1,1,71,Female,0,94.19647705,189.1056045,Diabetes,topical corticosteroids
+102.3200495,0,0,54,Male,0,120.079987,263.129642,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.31953939,0,1,60,Male,0,133.358589,278.3888701,Allergic Rhinitis,Inhalers and tablets
+103.4739871,0,1,49,Male,1,135.0287442,231.4614998,Diabetes,Nasal corticosteroid sprays
+100.0619014,0,1,27,Female,1,110.3503426,181.1309655,Eczema,topical corticosteroids
+102.5643958,0,1,78,Female,0,108.1717123,288.7652734,Asthma,Vitamin C intake
+98.26271187,0,0,23,Female,1,122.8715302,260.9272448,Urinary Tract Infection,Inhalers and tablets
+98.3884468,0,0,67,Male,0,94.51531462,201.7338174,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.6955018,0,0,50,Female,1,137.1581071,179.0748604,Urinary Tract Infection,Vitamin C intake
+103.9912187,0,1,22,Female,0,126.2117227,154.6466371,Asthma, Antiviral medications
+99.91712277,1,0,64,Female,0,97.0280076,138.4841377,Asthma, Antiviral medications
+97.18876335,1,0,64,Male,1,95.59661819,227.1315194,Hyperthyroidism,propylthiouracil or methimazole
+100.3086446,1,1,24,Female,0,126.7240204,132.158005,Diabetes,Inhalers and tablets
+98.76099153,0,0,75,Female,0,136.6467724,262.0949563,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.4153393,0,0,34,Male,0,116.0978779,154.8506175,Asthma,topical corticosteroids
+100.3474405,0,0,59,Male,1,131.4490791,223.1781839,Liver Cancer, Antiviral medications
+99.64275693,0,1,32,Female,1,137.483725,234.7254724,Diabetes,propylthiouracil or methimazole
+98.5742188,1,1,47,Male,1,136.5777813,166.1314984,Diabetes,propylthiouracil or methimazole
+97.50921899,1,0,80,Female,0,102.5904029,195.7812606,Asthma,insulin shots
+101.5799874,1,1,36,Female,1,134.2282431,250.4321466,Eczema,insulin shots
+100.5743811,0,1,34,Female,0,101.9038428,200.0323764,Hyperthyroidism,Inhalers and tablets
+97.86849957,1,0,47,Male,0,96.11384167,163.767446,Liver Cancer, Antiviral medications
+102.2043558,1,0,21,Male,1,130.3343623,263.4646051,Urinary Tract Infection,Vitamin C intake
+96.34917839,1,1,24,Female,0,106.4642955,130.8884129,Hyperthyroidism,Inhalers and tablets
+101.9576412,0,1,70,Female,1,119.216311,176.1000345,Liver Cancer, Antiviral medications
+101.641823,0,0,29,Male,0,109.4975334,198.4526631,Urinary Tract Infection,insulin shots
+102.4912712,0,0,73,Female,0,127.4187115,292.7534433,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.08863002,0,1,20,Male,0,101.796904,255.7872543,Hyperthyroidism, Antiviral medications
+101.3095106,0,0,72,Female,1,111.1434499,176.0138832,Diabetes,Vitamin C intake
+102.5659804,1,0,36,Male,1,97.21389544,279.3399438,Eczema,Inhalers and tablets
+103.8465451,0,0,41,Female,1,98.75771277,259.5892196,Hyperthyroidism,propylthiouracil or methimazole
+99.9626292,0,0,69,Female,1,138.4961738,146.5336313,Hyperthyroidism,insulin shots
+96.29615689,1,0,61,Female,1,111.9737706,175.5613946,Hyperthyroidism,propylthiouracil or methimazole
+100.0183292,1,0,38,Female,0,102.715296,181.7220568,Urinary Tract Infection,insulin shots
+100.7214434,0,0,45,Male,1,119.4740472,186.3893991,Diabetes, Antiviral medications
+102.9576025,1,0,65,Male,1,114.517929,121.4547316,Eczema,topical corticosteroids
+102.993523,0,1,25,Male,1,108.7352492,225.5591842,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.52244968,0,1,24,Male,1,137.4355445,242.0940674,Allergic Rhinitis,insulin shots
+100.2076087,1,0,72,Female,0,105.8244973,130.3171763,Urinary Tract Infection,insulin shots
+99.6554246,0,1,66,Male,1,111.1890658,211.2794161,Hepatitis,Inhalers and tablets
+101.7795506,1,0,74,Female,0,124.1369224,270.3314874,Hyperthyroidism,topical corticosteroids
+99.27982896,1,0,20,Female,1,138.165767,274.566397,Hepatitis,topical corticosteroids
+101.2382506,1,0,18,Female,1,133.971677,195.9710053,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.23488975,1,0,72,Female,1,136.8486146,155.1732833,Hepatitis,propylthiouracil or methimazole
+99.75592481,0,1,26,Male,1,108.1499006,156.0669426,Diabetes,Vitamin C intake
+103.753629,1,0,60,Female,0,125.7835615,283.5300393,Diabetes,Nasal corticosteroid sprays
+98.70848987,1,0,59,Male,0,131.0682683,261.3474853,Urinary Tract Infection, Antiviral medications
+101.5416368,0,1,28,Male,1,91.05371052,181.4793463,Allergic Rhinitis,insulin shots
+101.1986932,0,0,39,Male,1,138.340258,240.214825,Diabetes, Antiviral medications
+102.8141223,1,0,40,Male,1,120.2907366,245.0606838,Asthma,topical corticosteroids
+102.8187307,0,1,75,Male,1,132.0736483,296.746186,Diabetes,insulin shots
+102.8747375,1,0,46,Male,1,123.1111717,227.9572146,Urinary Tract Infection,Nasal corticosteroid sprays
+99.04007518,1,0,79,Female,1,137.0424138,179.6061782,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.53328923,0,1,57,Female,0,124.5341228,224.1139348,Asthma,Vitamin C intake
+101.7497394,0,1,35,Male,1,129.4401355,293.35168,Asthma,topical corticosteroids
+102.0752145,1,1,74,Female,1,101.9837915,230.8985647,Asthma,insulin shots
+102.9790641,1,0,64,Male,1,117.6363952,195.3651519,Allergic Rhinitis,Vitamin C intake
+96.2871928,0,1,23,Male,0,105.4634251,149.2103976,Asthma,topical corticosteroids
+96.54736598,0,1,41,Male,0,137.9241806,201.7743769,Hyperthyroidism,Inhalers and tablets
+101.0492881,1,0,70,Male,1,108.1427549,262.0544496,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.3674328,1,1,39,Male,0,130.6125149,127.594587,Asthma,Inhalers and tablets
+103.9794074,1,0,29,Female,1,96.10268844,159.4930587,Diabetes,topical corticosteroids
+101.9741309,0,0,25,Male,0,133.3476468,120.665473,Hepatitis,topical corticosteroids
+99.47177178,1,1,43,Female,0,132.882357,160.144516,Eczema,Vitamin C intake
+96.78754501,0,1,43,Female,0,109.4235507,161.4493218,Urinary Tract Infection,topical corticosteroids
+101.0699826,0,1,79,Female,0,135.489455,232.3056032,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.9806339,0,0,47,Female,1,109.6487784,163.0234272,Hepatitis,Nasal corticosteroid sprays
+99.54942841,1,0,35,Female,0,138.8996427,252.225512,Hepatitis,topical corticosteroids
+101.5520093,1,0,71,Female,0,102.7766845,291.4658812,Asthma,Nasal corticosteroid sprays
+103.2273925,0,1,42,Male,1,94.51251639,179.6727197,Urinary Tract Infection,topical corticosteroids
+96.36792775,0,1,62,Female,1,131.1353863,253.2146498,Eczema,Inhalers and tablets
+102.3691477,1,1,72,Male,0,101.7730227,156.9569449,Allergic Rhinitis,propylthiouracil or methimazole
+98.34694221,1,1,48,Male,1,100.5193246,153.1640122,Eczema,topical corticosteroids
+98.99872872,0,0,69,Male,1,134.5123364,298.1780478,Urinary Tract Infection,Inhalers and tablets
+97.16455837,1,0,44,Female,0,135.7945401,185.3070863,Liver Cancer,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.2493305,1,1,59,Female,0,121.5676351,133.2716082,Allergic Rhinitis,insulin shots
+100.5274245,1,1,74,Male,0,133.9733624,125.403166,Eczema, Antiviral medications
+102.3401558,1,0,69,Female,0,128.337045,140.7340727,Hepatitis,Inhalers and tablets
+97.35986919,0,1,28,Male,0,110.3144408,172.3037188,Hyperthyroidism,Inhalers and tablets
+96.63174681,1,0,25,Male,0,91.69408406,154.99262,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.9667168,1,0,26,Female,0,133.3222294,225.4235506,Hyperthyroidism, Antiviral medications
+100.9576829,0,0,62,Female,0,131.159889,257.7958922,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.92663833,0,1,64,Male,0,137.024771,127.9028687,Liver Cancer,insulin shots
+103.3026321,0,1,21,Male,0,113.5545642,125.3434032,Hyperthyroidism,insulin shots
+97.14494176,1,1,80,Male,1,110.6480659,155.608499,Liver Cancer,topical corticosteroids
+99.68919931,1,1,78,Female,0,132.0581733,151.3463896,Eczema,topical corticosteroids
+98.03181872,0,1,72,Female,0,125.8693009,279.3688013,Urinary Tract Infection,Inhalers and tablets
+98.04261367,1,1,28,Male,0,133.8380614,249.3906013,Hepatitis,Inhalers and tablets
+96.07517945,1,1,24,Male,1,131.0120655,181.1671487,Urinary Tract Infection,Nasal corticosteroid sprays
+102.4370646,0,1,44,Male,1,131.2200433,219.8108919,Hyperthyroidism,propylthiouracil or methimazole
+103.2096754,1,0,76,Female,1,124.9241094,152.1374575,Liver Cancer,propylthiouracil or methimazole
+101.4208871,1,0,55,Male,0,115.3167257,123.8685651,Asthma,Nasal corticosteroid sprays
+97.26380498,0,1,48,Male,1,107.5928173,271.7186557,Liver Cancer, Antiviral medications
+99.53383827,0,0,69,Female,1,120.1057971,283.916811,Allergic Rhinitis,insulin shots
+98.764525,0,0,54,Female,1,130.6714024,123.7788769,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.7005736,1,1,61,Female,1,126.889276,241.9414282,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.1115096,0,0,46,Female,1,112.6630877,188.2060964,Diabetes,propylthiouracil or methimazole
+99.39447151,1,1,29,Male,0,91.36754467,261.7345345,Hepatitis,Vitamin C intake
+98.0007858,1,1,57,Male,0,92.60494115,139.9744217,Diabetes,topical corticosteroids
+102.7624314,1,0,42,Male,1,122.0796256,288.5005388,Diabetes,insulin shots
+97.59373599,1,0,67,Female,0,121.5078171,174.913028,Allergic Rhinitis,Inhalers and tablets
+99.07754599,0,0,40,Female,1,129.5509659,163.2269879,Eczema,Nasal corticosteroid sprays
+99.86566449,0,0,57,Female,1,96.80461116,265.7077987,Urinary Tract Infection, Antiviral medications
+97.89764562,0,0,19,Male,1,110.0330925,238.9635687,Allergic Rhinitis,Nasal corticosteroid sprays
+100.5753815,1,1,73,Female,0,121.4148137,289.409116,Diabetes,Nasal corticosteroid sprays
+100.5984954,1,0,61,Male,1,105.6860901,295.8783323,Eczema,propylthiouracil or methimazole
+103.9415363,0,0,74,Male,1,94.11160257,299.5850846,Hepatitis, Antiviral medications
+98.36184603,0,1,71,Male,0,97.89112197,278.6994831,Hepatitis,Vitamin C intake
+103.8235559,0,1,64,Male,1,115.8182946,278.1098106,Eczema,insulin shots
+101.2658385,0,0,80,Female,0,138.4832293,131.7679535,Liver Cancer,Nasal corticosteroid sprays
+98.19584304,0,0,75,Female,1,131.5310691,145.9978042,Eczema,Nasal corticosteroid sprays
+100.5274321,0,0,26,Male,0,128.1581352,286.3479841,Hepatitis,topical corticosteroids
+101.4863959,1,1,48,Male,1,132.3480215,263.081661,Liver Cancer,Nasal corticosteroid sprays
+101.9573507,1,1,76,Female,0,124.2876689,154.5026326,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.39235401,0,0,49,Male,1,129.6321147,188.0751953,Liver Cancer,propylthiouracil or methimazole
+100.8512519,0,1,25,Female,0,105.9699565,187.3659543,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+99.97381829,1,0,74,Male,0,113.918274,227.9188493,Eczema,insulin shots
+103.2332423,0,0,44,Male,1,126.7586054,295.8566773,Liver Cancer, Antiviral medications
+98.28955321,1,1,46,Male,0,103.033994,164.018935,Hyperthyroidism, Antiviral medications
+102.390881,0,1,20,Female,0,124.3733436,128.3151346,Urinary Tract Infection,topical corticosteroids
+100.85652,1,0,22,Male,1,131.3384305,230.8850414,Liver Cancer,topical corticosteroids
+98.81856765,0,1,34,Female,1,129.9764334,154.0383896,Eczema,insulin shots
+101.092943,1,0,59,Male,0,99.93318598,216.3843016,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.9671293,1,0,38,Male,0,110.7248212,262.1258021,Urinary Tract Infection,topical corticosteroids
+101.4221157,0,0,18,Male,0,99.09446269,178.9825088,Hepatitis,propylthiouracil or methimazole
+101.767427,1,0,63,Female,0,133.8195006,129.5866155,Allergic Rhinitis,Nasal corticosteroid sprays
+101.2734523,1,0,73,Male,1,137.2378577,263.2101456,Asthma,insulin shots
+102.7066969,0,0,61,Female,1,134.2170715,277.1132685,Hyperthyroidism, Antiviral medications
+101.0259848,1,1,51,Male,0,101.2243567,273.2704749,Urinary Tract Infection,propylthiouracil or methimazole
+103.2272296,1,0,67,Male,1,137.4054609,294.3091754,Asthma,propylthiouracil or methimazole
+101.1707249,0,1,65,Female,0,136.1556176,279.4501718,Hepatitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.47146307,0,0,54,Male,0,122.3553345,157.6627632,Eczema,topical corticosteroids
+99.52658552,0,0,64,Male,0,121.3313679,134.6533863,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+100.6365904,0,1,54,Male,1,135.342239,204.7201128,Diabetes,Nasal corticosteroid sprays
+101.8588781,1,0,32,Female,1,138.7063786,239.4303957,Allergic Rhinitis,Inhalers and tablets
+96.72106701,1,1,80,Male,0,99.91331013,131.6771474,Hepatitis,Nasal corticosteroid sprays
+98.36088361,0,0,79,Female,1,125.0630577,211.550485,Urinary Tract Infection,Nasal corticosteroid sprays
+101.9798469,0,0,60,Female,1,98.43779782,255.2354468,Liver Cancer,Vitamin C intake
+97.40512056,0,0,73,Female,0,110.0517456,236.1128816,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.05727838,1,0,39,Male,1,111.4451684,211.6485331,Liver Cancer,topical corticosteroids
+100.3152621,0,0,51,Male,1,103.007889,209.7457997,Urinary Tract Infection,insulin shots
+103.7719166,1,1,51,Female,1,94.45306337,203.56811,Hyperthyroidism,Inhalers and tablets
+100.246819,1,0,62,Female,1,108.3960077,177.9281639,Diabetes,Vitamin C intake
+103.3078958,0,1,62,Male,0,137.3621754,187.2981698,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.643781,0,1,57,Female,0,95.86752594,245.0117413,Hepatitis,Inhalers and tablets
+98.05576068,1,0,24,Male,0,125.9291712,248.8169771,Hepatitis,topical corticosteroids
+102.5975185,1,1,45,Female,1,111.7579368,209.0625646,Hyperthyroidism,Nasal corticosteroid sprays
+99.85478264,1,1,60,Female,1,135.9994524,168.3003825,Hyperthyroidism,Nasal corticosteroid sprays
+102.451908,1,1,64,Female,0,112.6853933,192.1702927,Liver Cancer, Antiviral medications
+101.9724748,1,0,33,Female,1,123.6805021,285.8133403,Urinary Tract Infection,Nasal corticosteroid sprays
+98.70972203,1,0,48,Male,1,95.92561745,225.1168719,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.92135766,0,1,40,Male,1,125.6781856,126.5888078,Liver Cancer,Nasal corticosteroid sprays
+103.7031463,0,1,60,Female,1,99.52720826,159.5147309,Allergic Rhinitis, Antiviral medications
+97.12605612,1,1,61,Female,0,133.0968362,156.5400894,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.7320017,0,0,59,Female,0,129.1060972,275.3702875,Allergic Rhinitis, Antiviral medications
+102.8811248,0,1,42,Female,1,104.3980986,191.2619956,Diabetes,topical corticosteroids
+101.7937337,1,0,27,Male,1,114.7084079,175.0798265,Eczema,insulin shots
+103.8395379,0,0,71,Male,0,96.50996656,279.9676073,Hyperthyroidism, Antiviral medications
+103.738158,0,1,70,Male,1,132.8168864,222.8466696,Urinary Tract Infection,Vitamin C intake
+102.4367012,0,1,53,Female,1,120.0041393,288.3898033,Urinary Tract Infection,Vitamin C intake
+98.9262004,0,1,75,Female,0,139.7603725,187.339324,Liver Cancer,propylthiouracil or methimazole
+102.3254557,1,0,57,Female,0,104.1483623,219.0993553,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.11134924,1,0,21,Female,0,123.8594326,144.1794568,Hyperthyroidism,Vitamin C intake
+100.2925785,1,0,18,Female,1,110.9165496,135.1250669,Allergic Rhinitis,topical corticosteroids
+99.63828822,1,1,59,Male,0,110.4262051,200.0109568,Hepatitis,Vitamin C intake
+101.3826271,0,0,77,Female,1,97.29714261,183.2834913,Diabetes,insulin shots
+101.3787264,0,0,28,Male,1,104.5096481,225.1132005,Asthma,propylthiouracil or methimazole
+100.6764807,1,1,50,Male,0,103.0899732,203.74556,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+102.5793384,1,0,72,Female,1,120.884012,231.8026476,Hepatitis,Inhalers and tablets
+103.5223351,0,0,48,Male,1,135.3664117,196.6984218,Hepatitis,propylthiouracil or methimazole
+96.86676882,1,1,72,Female,0,108.481887,204.159178,Hyperthyroidism,propylthiouracil or methimazole
+97.87057522,0,0,49,Male,1,124.2133543,193.6114996,Liver Cancer, Antiviral medications
+96.2001972,0,1,73,Female,0,112.9082056,264.8108038,Urinary Tract Infection,topical corticosteroids
+103.0738788,0,0,28,Male,0,90.51601211,177.0636766,Urinary Tract Infection,propylthiouracil or methimazole
+100.4912591,1,0,22,Female,0,96.6602468,188.8267668,Hyperthyroidism,Inhalers and tablets
+103.3220473,0,1,66,Male,0,106.162299,152.3218316,Asthma,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+97.7709376,0,1,49,Female,0,124.6511779,162.0822719,Asthma, Antiviral medications
+96.50573633,0,0,38,Female,0,124.3426225,236.1638735,Eczema, Antiviral medications
+102.5908428,0,0,33,Female,1,125.6667975,184.6367283,Hyperthyroidism,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.2751011,0,1,39,Female,1,125.4226583,134.835332,Hyperthyroidism,topical corticosteroids
+98.4175214,0,1,80,Male,0,126.8052053,271.6686101,Liver Cancer,Inhalers and tablets
+99.26636685,1,0,35,Male,1,102.8112797,212.3023781,Eczema,Inhalers and tablets
+97.1182161,0,1,21,Male,1,94.7639711,235.8577919,Allergic Rhinitis,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+103.5700923,0,0,50,Male,1,92.93761568,261.4571933,Eczema,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+98.43491667,0,0,32,Male,0,106.643127,286.7890655,Liver Cancer,propylthiouracil or methimazole
+99.94099695,1,0,53,Male,0,101.742072,137.7136397,Urinary Tract Infection,Nasal corticosteroid sprays
+96.77753599,1,1,59,Male,1,135.4113269,132.8427619,Eczema,Inhalers and tablets
+103.0980745,0,1,42,Male,0,139.8369718,126.8906493,Urinary Tract Infection,Nasal corticosteroid sprays
+97.08531239,0,0,43,Male,1,136.966097,156.0551874,Hepatitis,Inhalers and tablets
+99.62915006,0,0,70,Female,0,138.3604922,155.3963381,Diabetes,propylthiouracil or methimazole
+101.3638898,0,0,33,Male,1,119.9116033,179.2634327,Diabetes,insulin shots
+101.945121,1,1,23,Male,0,127.412092,174.4888049,Hepatitis,Inhalers and tablets
+103.5677927,0,1,47,Male,0,92.27559358,266.8016603,Asthma,propylthiouracil or methimazole
+99.35301403,1,1,46,Female,1,102.6828441,243.0370794,Urinary Tract Infection,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+101.9381521,1,0,69,Female,0,120.9828938,169.4036202,Allergic Rhinitis,topical corticosteroids
+97.23618322,0,1,54,Female,0,105.1253678,247.0156748,Hyperthyroidism,Inhalers and tablets
+99.31907622,1,1,46,Male,0,109.7348407,299.639227,Hyperthyroidism,topical corticosteroids
+96.79217308,0,1,23,Female,0,108.5450607,299.7129176,Allergic Rhinitis, Antiviral medications
+99.9147763,0,1,72,Male,0,138.4028905,255.4290042,Diabetes,propylthiouracil or methimazole
+99.26492709,1,1,49,Male,1,117.9780194,253.1677811,Asthma,Vitamin C intake
+103.6121722,1,0,46,Male,0,119.0243455,284.2288554,Diabetes,"surgery, chemotherapy, using heat to destroy the cancer (thermal ablation), targeted medicines, and radiotherapy"
+96.26173029,1,1,38,Male,1,103.0145826,121.5360981,Allergic Rhinitis,Vitamin C intake
+98.96423967,0,0,25,Female,0,115.1873361,173.9053474,Urinary Tract Infection,Inhalers and tablets
+99.54706469,0,0,80,Male,0,136.5163471,268.0155941,Allergic Rhinitis,topical corticosteroids
+103.6044414,1,1,49,Female,0,133.8948376,260.9630857,Hepatitis,insulin shots
+102.8436015,1,0,65,Male,0,96.59597668,192.6860055,Asthma,propylthiouracil or methimazole
